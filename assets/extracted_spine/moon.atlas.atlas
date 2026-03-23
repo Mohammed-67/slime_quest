@@ -1,0 +1,27 @@
+
+moon.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+moon_eye1
+  rotate: false
+  xy: 181, 22
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+moon_eye2
+  rotate: false
+  xy: 1, 1
+  size: 178, 124
+  orig: 178, 124
+  offset: 0, 0
+  index: -1
+moon_face
+  rotate: false
+  xy: 1, 127
+  size: 352, 353
+  orig: 352, 353
+  offset: 0, 0
+  index: -1

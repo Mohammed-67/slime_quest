@@ -1,0 +1,76 @@
+
+203_HorrorSlime.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F33
+  rotate: false
+  xy: 1, 414
+  size: 187, 199
+  orig: 187, 199
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1, 248
+  size: 189, 164
+  orig: 189, 164
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 1, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 1, 1
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 1, 60
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 1, 60
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+M1
+  rotate: false
+  xy: 94, 45
+  size: 91, 43
+  orig: 91, 43
+  offset: 0, 0
+  index: -1
+M2
+  rotate: false
+  xy: 121, 137
+  size: 85, 109
+  orig: 99, 109
+  offset: 14, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 94, 90
+  size: 126, 45
+  orig: 126, 45
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 1, 143
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1

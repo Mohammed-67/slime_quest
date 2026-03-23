@@ -1,0 +1,13 @@
+
+20193_human_Boss_carrot.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Carrot
+  rotate: false
+  xy: 1, 1
+  size: 128, 203
+  orig: 128, 203
+  offset: 0, 0
+  index: -1

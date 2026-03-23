@@ -1,0 +1,27 @@
+
+skill_demon_spirit.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 47, 26
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+demon_Eye1
+  rotate: false
+  xy: 1, 1
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+demon_body
+  rotate: false
+  xy: 1, 46
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

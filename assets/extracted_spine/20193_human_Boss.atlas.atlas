@@ -1,0 +1,125 @@
+
+20193_human_Boss.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 143
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+Ear1
+  rotate: false
+  xy: 1, 79
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 117, 378
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 65, 72
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 86, 205
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 1, 205
+  size: 83, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 1, 338
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1, 43
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 1, 8
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 93, 36
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 89, 3
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 107, 84
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 47, 36
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 45, 1
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 117, 338
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: true
+  xy: 1, 279
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: true
+  xy: 87, 143
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1

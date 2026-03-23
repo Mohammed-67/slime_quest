@@ -1,0 +1,265 @@
+
+Gacha_unlock.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chained1
+  rotate: false
+  xy: 631, 67
+  size: 43, 159
+  orig: 43, 159
+  offset: 0, 0
+  index: -1
+Chained2
+  rotate: false
+  xy: 1937, 127
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+Door_1
+  rotate: false
+  xy: 760, 499
+  size: 184, 98
+  orig: 184, 98
+  offset: 0, 0
+  index: -1
+Door_1_2
+  rotate: false
+  xy: 2437, 36
+  size: 182, 96
+  orig: 182, 96
+  offset: 0, 0
+  index: -1
+Door_2
+  rotate: false
+  xy: 2262, 2
+  size: 173, 330
+  orig: 173, 330
+  offset: 0, 0
+  index: -1
+Door_3
+  rotate: false
+  xy: 2250, 1093
+  size: 177, 348
+  orig: 177, 348
+  offset: 0, 0
+  index: -1
+Door_3_2
+  rotate: false
+  xy: 2079, 89
+  size: 181, 349
+  orig: 181, 351
+  offset: 0, 1
+  index: -1
+Door_3_3
+  rotate: false
+  xy: 2067, 1122
+  size: 181, 349
+  orig: 181, 351
+  offset: 0, 1
+  index: -1
+Door_4
+  rotate: false
+  xy: 1, 21
+  size: 255, 95
+  orig: 255, 95
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: 270
+  xy: 2042, 599
+  size: 521, 299
+  orig: 521, 299
+  offset: 0, 0
+  index: -1
+Gear1
+  rotate: false
+  xy: 435, 728
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Gear1_2
+  rotate: false
+  xy: 972, 442
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Gear1_3
+  rotate: false
+  xy: 2437, 135
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+Gear2
+  rotate: false
+  xy: 258, 5
+  size: 291, 68
+  orig: 291, 68
+  offset: 0, 0
+  index: -1
+Gear3
+  rotate: 180
+  xy: 1233, 378
+  size: 421, 546
+  orig: 421, 546
+  offset: 0, 0
+  index: -1
+Gear3_2
+  rotate: false
+  xy: 1458, 922
+  size: 421, 546
+  orig: 421, 546
+  offset: 0, 0
+  index: -1
+Gear3_3
+  rotate: 180
+  xy: 1644, 926
+  size: 421, 546
+  orig: 421, 546
+  offset: 0, 0
+  index: -1
+Gear4
+  rotate: false
+  xy: 610, 641
+  size: 422, 840
+  orig: 422, 840
+  offset: 0, 0
+  index: -1
+Gear4_2
+  rotate: false
+  xy: 1034, 641
+  size: 422, 840
+  orig: 422, 840
+  offset: 0, 0
+  index: -1
+Gear5
+  rotate: false
+  xy: 1, 118
+  size: 310, 310
+  orig: 310, 310
+  offset: 0, 0
+  index: -1
+Lock_1
+  rotate: false
+  xy: 2284, 744
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+Lock_1_2
+  rotate: false
+  xy: 2429, 981
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+Lock_1_2_1
+  rotate: false
+  xy: 1, 844
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+Lock_1_3
+  rotate: false
+  xy: 2429, 1216
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+Lock_2
+  rotate: true
+  xy: 953, 86
+  size: 332, 332
+  orig: 332, 332
+  offset: 0, 0
+  index: -1
+Lock_2_2
+  rotate: false
+  xy: 1287, 46
+  size: 330, 330
+  orig: 330, 330
+  offset: 0, 0
+  index: -1
+Lock_3
+  rotate: false
+  xy: 1, 430
+  size: 442, 442
+  orig: 442, 442
+  offset: 0, 0
+  index: -1
+Lock_3_2
+  rotate: false
+  xy: 1, 874
+  size: 607, 607
+  orig: 607, 607
+  offset: 0, 0
+  index: -1
+Lock_4
+  rotate: false
+  xy: 313, 75
+  size: 316, 281
+  orig: 316, 281
+  offset: 0, 0
+  index: -1
+Lock_4_2
+  rotate: false
+  xy: 631, 75
+  size: 316, 281
+  orig: 316, 281
+  offset: 0, 0
+  index: -1
+Lock_4_3
+  rotate: false
+  xy: 1619, 6
+  size: 316, 281
+  orig: 316, 281
+  offset: 0, 0
+  index: -1
+Lock_5
+  rotate: true
+  xy: 1656, 379
+  size: 545, 281
+  orig: 545, 281
+  offset: 0, 0
+  index: -1
+Lock_5_2
+  rotate: false
+  xy: 442, 358
+  size: 545, 281
+  orig: 545, 281
+  offset: 0, 0
+  index: -1
+Lock_5_3
+  rotate: 270
+  xy: 1796, 289
+  size: 545, 281
+  orig: 545, 281
+  offset: 0, 0
+  index: -1
+Lock_6
+  rotate: true
+  xy: 2466, 334
+  size: 344, 138
+  orig: 344, 138
+  offset: 0, 0
+  index: -1
+Lock_7
+  rotate: true
+  xy: 2521, 680
+  size: 285, 179
+  orig: 285, 179
+  offset: 0, 0
+  index: -1
+Lock_8
+  rotate: false
+  xy: 2262, 334
+  size: 202, 300
+  orig: 202, 300
+  offset: 0, 0
+  index: -1

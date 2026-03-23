@@ -1,0 +1,258 @@
+
+20406_lycan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 447, 205
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 41, 1
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 150, 61
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 192, 41
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 106, 132
+  size: 90, 84
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+Fire_effect
+  rotate: false
+  xy: 198, 85
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+L_acc
+  rotate: true
+  xy: 1, 32
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 258, 20
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 277, 120
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Lycan_acc1
+  rotate: false
+  xy: 167, 8
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Lycan_acc2
+  rotate: false
+  xy: 346, 119
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+Lycan_body
+  rotate: false
+  xy: 346, 182
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: -1
+Lycan_eye
+  rotate: false
+  xy: 72, 9
+  size: 34, 21
+  orig: 34, 23
+  offset: 0, 2
+  index: -1
+Lycan_face
+  rotate: false
+  xy: 205, 157
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+Lycan_head
+  rotate: false
+  xy: 205, 269
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+Lycan_l_arm
+  rotate: true
+  xy: 347, 68
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Lycan_l_leg
+  rotate: true
+  xy: 80, 76
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+Lycan_l_sh
+  rotate: false
+  xy: 347, 27
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+Lycan_mouth
+  rotate: true
+  xy: 467, 120
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+Lycan_nose
+  rotate: true
+  xy: 306, 9
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+Lycan_r_arm
+  rotate: true
+  xy: 420, 68
+  size: 49, 71
+  orig: 49, 71
+  offset: 0, 0
+  index: -1
+Lycan_r_leg
+  rotate: true
+  xy: 277, 63
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+Lycan_r_sh
+  rotate: false
+  xy: 404, 27
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+Lycan_sample
+  rotate: false
+  xy: 1, 218
+  size: 202, 191
+  orig: 202, 191
+  offset: 0, 0
+  index: -1
+Lycan_tail
+  rotate: false
+  xy: 1, 77
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+Lycan_th
+  rotate: true
+  xy: 461, 25
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 167, 44
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 476, 321
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: false
+  xy: 476, 278
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+R_acc
+  rotate: true
+  xy: 60, 31
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 119, 18
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 476, 365
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 1, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 1, 139
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+acc1
+  rotate: false
+  xy: 209, 8
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 346, 269
+  size: 128, 140
+  orig: 129, 140
+  offset: 0, 0
+  index: -1

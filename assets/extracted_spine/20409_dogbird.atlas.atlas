@@ -1,0 +1,76 @@
+
+20409_dogbird.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 8
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 208, 14
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 278, 29
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 320, 34
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 93, 12
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+L_wing
+  rotate: true
+  xy: 170, 35
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 364, 44
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: true
+  xy: 224, 35
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 364, 1
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Th
+  rotate: true
+  xy: 170, 2
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1

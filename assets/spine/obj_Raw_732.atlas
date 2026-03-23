@@ -1,0 +1,131 @@
+135_PlayerSkill_ReaperSlime.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_clock
+  rotate: true
+  xy: 434, 2
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 804, 3
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 794, 119
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+R_clock
+  rotate: true
+  xy: 720, 7
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 794, 84
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 813, 119
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 546, 81
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+W2
+  rotate: true
+  xy: 647, 81
+  size: 111, 99
+  orig: 111, 99
+  offset: 0, 0
+  index: -1
+acc
+  rotate: true
+  xy: 794, 38
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 636, 12
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: true
+  xy: 434, 72
+  size: 120, 110
+  orig: 120, 111
+  offset: 0, 1
+  index: -1
+effect2
+  rotate: false
+  xy: 1, 9
+  size: 205, 183
+  orig: 205, 183
+  offset: 0, 0
+  index: -1
+effect2_1
+  rotate: false
+  xy: 341, 19
+  size: 91, 173
+  orig: 91, 173
+  offset: 0, 0
+  index: -1
+effect2_2
+  rotate: false
+  xy: 748, 73
+  size: 44, 119
+  orig: 44, 163
+  offset: 0, 44
+  index: -1
+hand
+  rotate: false
+  xy: 511, 7
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 546, 12
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+high
+  rotate: false
+  xy: 341, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+potal
+  rotate: false
+  xy: 208, 17
+  size: 131, 175
+  orig: 131, 175
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+40100_bird.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+322
+  rotate: false
+  xy: 26, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 54
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 46, 3
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 1, 25
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 55, 54
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 55, 54
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1, 1
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: true
+  xy: 31, 24
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

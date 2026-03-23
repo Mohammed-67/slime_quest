@@ -1,0 +1,48 @@
+
+200_slime_bomb.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc
+  rotate: true
+  xy: 159, 27
+  size: 66, 63
+  orig: 69, 64
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 11
+  size: 109, 81
+  orig: 109, 81
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 258, 42
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 112, 8
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: 270
+  xy: 218, 22
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 258, 1
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+raid_pig.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 899 copy 3
+  rotate: false
+  xy: 106, 1
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+Layer 901
+  rotate: true
+  xy: 190, 43
+  size: 63, 36
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+Layer 928 copy
+  rotate: false
+  xy: 190, 5
+  size: 63, 36
+  orig: 63, 40
+  offset: 0, 4
+  index: -1
+Pig_Eye
+  rotate: true
+  xy: 270, 43
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Pig_Nose
+  rotate: true
+  xy: 228, 43
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Pig_body
+  rotate: false
+  xy: 106, 21
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Pig_head
+  rotate: false
+  xy: 1, 9
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+Pig_l_hand
+  rotate: false
+  xy: 255, 3
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

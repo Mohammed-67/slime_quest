@@ -1,0 +1,230 @@
+
+20294_dwarf2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 1605, 128
+  size: 92, 155
+  orig: 92, 155
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 1380, 36
+  size: 92, 155
+  orig: 92, 155
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 571, 27
+  size: 222, 139
+  orig: 222, 139
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: true
+  xy: 712, 61
+  size: 222, 139
+  orig: 222, 139
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 1699, 239
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: false
+  xy: 847, 3
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: false
+  xy: 436, 27
+  size: 133, 256
+  orig: 133, 256
+  offset: 0, 0
+  index: -1
+Effect_3
+  rotate: true
+  xy: 853, 42
+  size: 241, 97
+  orig: 241, 97
+  offset: 0, 0
+  index: -1
+Effect_3_1
+  rotate: true
+  xy: 1537, 86
+  size: 197, 66
+  orig: 197, 66
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 125, 10
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1714, 38
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+Face2
+  rotate: true
+  xy: 1782, 38
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 88, 1
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 1142, 8
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+Hand2
+  rotate: false
+  xy: 1699, 128
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+Hand_
+  rotate: false
+  xy: 1786, 128
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: false
+  xy: 1786, 191
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 909, 6
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Low_Body
+  rotate: false
+  xy: 952, 17
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+Low_Body2
+  rotate: true
+  xy: 1142, 95
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1537, 35
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Mouth_low
+  rotate: false
+  xy: 791, 14
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 154, 14
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Nose_acc
+  rotate: false
+  xy: 712, 13
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 49, 2
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Scar
+  rotate: false
+  xy: 1605, 17
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+Sh
+  rotate: false
+  xy: 1255, 5
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+Sh2
+  rotate: false
+  xy: 1365, 130
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+Steam
+  rotate: true
+  xy: 1, 4
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+die
+  rotate: true
+  xy: 952, 130
+  size: 153, 137
+  orig: 162, 141
+  offset: 9, 3
+  index: -1
+die2
+  rotate: true
+  xy: 1255, 130
+  size: 153, 108
+  orig: 162, 141
+  offset: 9, 3
+  index: -1
+png1
+  rotate: false
+  xy: 1, 38
+  size: 433, 245
+  orig: 472, 270
+  offset: 19, 20
+  index: -1

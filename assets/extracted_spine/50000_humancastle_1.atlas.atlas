@@ -1,0 +1,41 @@
+
+50000_humancastle_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 33
+  rotate: false
+  xy: 1, 1
+  size: 698, 394
+  orig: 698, 394
+  offset: 0, 0
+  index: -1
+ba1
+  rotate: true
+  xy: 701, 19
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 826, 24
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+door
+  rotate: true
+  xy: 701, 123
+  size: 272, 264
+  orig: 272, 264
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 925, 23
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1

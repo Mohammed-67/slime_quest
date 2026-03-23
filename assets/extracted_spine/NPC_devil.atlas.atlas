@@ -1,0 +1,153 @@
+
+NPC_devil.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 1, 282
+  size: 371, 422
+  orig: 371, 422
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 257, 132
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 472, 49
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 162, 12
+  size: 72, 52
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: false
+  xy: 132, 659
+  size: 100, 32
+  orig: 100, 32
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1, 66
+  size: 254, 214
+  orig: 254, 214
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 368, 49
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 97, 21
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1, 264
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 236, 29
+  size: 88, 31
+  orig: 88, 31
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 497, 312
+  size: 127, 36
+  orig: 128, 36
+  offset: 1, 0
+  index: -1
+Mouth3_1
+  rotate: true
+  xy: 502, 107
+  size: 127, 36
+  orig: 128, 36
+  offset: 0, 0
+  index: -1
+Mouth3_2
+  rotate: true
+  xy: 374, 574
+  size: 102, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+Mouth3_3
+  rotate: true
+  xy: 433, 421
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 238, 62
+  size: 128, 68
+  orig: 129, 68
+  offset: 0, 0
+  index: -1
+Mouth_
+  rotate: true
+  xy: 497, 441
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 420, 132
+  size: 80, 102
+  orig: 80, 102
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1, 1
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 340, 296
+  size: 131, 276
+  orig: 131, 276
+  offset: 0, 0
+  index: -1
+shape1
+  rotate: true
+  xy: 465, 532
+  size: 117, 53
+  orig: 117, 53
+  offset: 0, 0
+  index: -1
+steam
+  rotate: false
+  xy: 453, 236
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1

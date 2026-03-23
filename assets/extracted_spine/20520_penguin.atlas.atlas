@@ -1,0 +1,97 @@
+
+20520_penguin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E1
+  rotate: true
+  xy: 565, 133
+  size: 92, 27
+  orig: 92, 27
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 321, 17
+  size: 111, 51
+  orig: 111, 51
+  offset: 0, 0
+  index: -1
+E3
+  rotate: false
+  xy: 444, 1
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+Effect123123
+  rotate: false
+  xy: 1, 4
+  size: 318, 221
+  orig: 318, 221
+  offset: 0, 0
+  index: -1
+Skill4_Foot
+  rotate: false
+  xy: 562, 18
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+Skill4_Tear
+  rotate: false
+  xy: 622, 76
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+Skill4_arm
+  rotate: true
+  xy: 594, 120
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Skill4_body
+  rotate: false
+  xy: 321, 70
+  size: 121, 155
+  orig: 121, 155
+  offset: 0, 0
+  index: -1
+Skill4_body2
+  rotate: true
+  xy: 444, 76
+  size: 149, 119
+  orig: 149, 119
+  offset: 0, 0
+  index: -1
+Skill4_l_arm
+  rotate: true
+  xy: 594, 169
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Skill4_l_foot
+  rotate: false
+  xy: 565, 76
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Skill4_r_foot
+  rotate: false
+  xy: 565, 76
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Skill4_r_arm
+  rotate: true
+  xy: 606, 26
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1

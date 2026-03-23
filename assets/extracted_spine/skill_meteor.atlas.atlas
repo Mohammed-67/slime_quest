@@ -1,0 +1,20 @@
+
+skill_meteor.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meteor1
+  rotate: false
+  xy: 1, 1
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+meteor2
+  rotate: false
+  xy: 1, 238
+  size: 293, 359
+  orig: 293, 359
+  offset: 0, 0
+  index: -1

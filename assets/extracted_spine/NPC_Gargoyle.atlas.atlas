@@ -1,0 +1,125 @@
+
+NPC_Gargoyle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 161
+  size: 210, 112
+  orig: 210, 112
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: false
+  xy: 1, 275
+  size: 283, 98
+  orig: 283, 106
+  offset: 0, 8
+  index: -1
+Eye
+  rotate: false
+  xy: 434, 2
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 286, 196
+  size: 176, 184
+  orig: 176, 184
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 332, 45
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 332, 45
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+L_Wing
+  rotate: false
+  xy: 91, 73
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 86, 15
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 209, 67
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 298, 6
+  size: 120, 37
+  orig: 120, 37
+  offset: 0, 0
+  index: -1
+Mouth_in
+  rotate: false
+  xy: 213, 152
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 160, 17
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 318, 104
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 431, 57
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+Stone1
+  rotate: false
+  xy: 456, 121
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1, 54
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+steam
+  rotate: false
+  xy: 215, 19
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1

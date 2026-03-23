@@ -1,0 +1,20 @@
+
+00002_Item_Chicken.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 422 copy 2
+  rotate: false
+  xy: 2, 45
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+Layer 428 copy
+  rotate: false
+  xy: 2, 2
+  size: 114, 41
+  orig: 114, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+20194_mini_lion.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect
+  rotate: false
+  xy: 1, 1
+  size: 201, 143
+  orig: 201, 143
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 309, 6
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 299, 83
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 299, 122
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 204, 7
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 270, 5
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 204, 44
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 299, 44
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

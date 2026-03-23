@@ -1,0 +1,41 @@
+
+Fx_dwarf_skill.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_1
+  rotate: false
+  xy: 1, 40
+  size: 83, 293
+  orig: 83, 293
+  offset: 0, 0
+  index: -1
+Effect_2
+  rotate: false
+  xy: 185, 107
+  size: 66, 226
+  orig: 66, 226
+  offset: 0, 0
+  index: -1
+Effect_3
+  rotate: true
+  xy: 86, 92
+  size: 241, 97
+  orig: 241, 97
+  offset: 0, 0
+  index: -1
+Effect_3_1
+  rotate: 180
+  xy: 52, 2
+  size: 197, 66
+  orig: 197, 66
+  offset: 0, 0
+  index: -1
+Effect_Eye
+  rotate: 180
+  xy: 191, 56
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1

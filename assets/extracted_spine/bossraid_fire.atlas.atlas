@@ -1,0 +1,27 @@
+
+bossraid_fire.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 193 copy 14
+  rotate: true
+  xy: 1, 52
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+Layer 193 copy 14-1
+  rotate: true
+  xy: 1, 1
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+Layer 818 copy 2
+  rotate: false
+  xy: 1, 139
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1

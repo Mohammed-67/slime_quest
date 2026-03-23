@@ -1,0 +1,27 @@
+
+Fx_resurrection.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_01
+  rotate: false
+  xy: 1, 14
+  size: 231, 118
+  orig: 231, 118
+  offset: 0, 0
+  index: -1
+fx_02
+  rotate: false
+  xy: 234, 16
+  size: 227, 116
+  orig: 227, 116
+  offset: 0, 0
+  index: -1
+fx_03
+  rotate: false
+  xy: 234, 1
+  size: 231, 13
+  orig: 231, 13
+  offset: 0, 0
+  index: -1

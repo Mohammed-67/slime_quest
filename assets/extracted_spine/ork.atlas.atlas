@@ -1,0 +1,90 @@
+
+ork.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Face_acc
+  rotate: true
+  xy: 894, 6
+  size: 115, 58
+  orig: 115, 58
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 714, 26
+  size: 90, 95
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 549, 32
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 806, 34
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 629, 123
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 395, 32
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 830, 123
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 204, 31
+  size: 182, 189
+  orig: 182, 189
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 630, 8
+  size: 82, 108
+  orig: 83, 108
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 36
+  size: 201, 177
+  orig: 201, 177
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 727, 123
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+trumpet
+  rotate: 180
+  xy: 395, 2
+  size: 233, 212
+  orig: 233, 212
+  offset: 0, 0
+  index: -1

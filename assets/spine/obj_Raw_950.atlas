@@ -1,0 +1,61 @@
+tuna.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_1
+  rotate: false
+  xy: 1, 249
+  size: 590, 724
+  orig: 590, 724
+  offset: 0, 0
+  index: -1
+3_102
+  rotate: false
+  xy: 593, 588
+  size: 37, 180
+  orig: 37, 180
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: false
+  xy: 593, 522
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: false
+  xy: 593, 873
+  size: 114, 100
+  orig: 114, 100
+  offset: 0, 0
+  index: -1
+3_4
+  rotate: true
+  xy: 1, 1
+  size: 246, 380
+  orig: 246, 380
+  offset: 0, 0
+  index: -1
+3_5
+  rotate: false
+  xy: 593, 770
+  size: 83, 101
+  orig: 83, 101
+  offset: 0, 0
+  index: -1
+3_6
+  rotate: false
+  xy: 593, 462
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+3_7
+  rotate: true
+  xy: 383, 2
+  size: 245, 380
+  orig: 245, 380
+  offset: 0, 0
+  index: -1

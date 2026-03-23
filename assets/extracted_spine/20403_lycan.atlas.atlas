@@ -1,0 +1,307 @@
+
+20403_lycan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_body
+  rotate: true
+  xy: 776, 164
+  size: 136, 98
+  orig: 136, 98
+  offset: 0, 0
+  index: -1
+B_eye
+  rotate: false
+  xy: 37, 6
+  size: 33, 20
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+B_eye2
+  rotate: false
+  xy: 283, 8
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+B_hair
+  rotate: false
+  xy: 386, 39
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+B_leg1
+  rotate: true
+  xy: 544, 3
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+B_leg2
+  rotate: true
+  xy: 544, 3
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+B_leg3
+  rotate: true
+  xy: 583, 3
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+B_leg4
+  rotate: true
+  xy: 583, 3
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+B_mouth
+  rotate: false
+  xy: 398, 86
+  size: 123, 75
+  orig: 123, 75
+  offset: 0, 0
+  index: -1
+B_mouth2
+  rotate: false
+  xy: 181, 4
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+B_tail
+  rotate: false
+  xy: 389, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+B_tear
+  rotate: false
+  xy: 700, 4
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 230, 55
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 127, 1
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 629, 32
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 700, 39
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 782, 87
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 851, 26
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 876, 192
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Lycan_body
+  rotate: false
+  xy: 537, 74
+  size: 123, 96
+  orig: 123, 96
+  offset: 0, 0
+  index: -1
+Lycan_eye
+  rotate: false
+  xy: 1, 5
+  size: 34, 21
+  orig: 34, 23
+  offset: 0, 2
+  index: -1
+Lycan_face
+  rotate: true
+  xy: 664, 161
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+Lycan_head
+  rotate: false
+  xy: 398, 163
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+Lycan_l_arm
+  rotate: false
+  xy: 320, 44
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Lycan_l_leg
+  rotate: false
+  xy: 166, 23
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+Lycan_mouth
+  rotate: false
+  xy: 544, 35
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+Lycan_nose
+  rotate: true
+  xy: 876, 138
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+Lycan_r_arm
+  rotate: true
+  xy: 1, 27
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+Lycan_r_leg
+  rotate: true
+  xy: 474, 18
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+Lycan_sample
+  rotate: false
+  xy: 1, 93
+  size: 227, 207
+  orig: 227, 208
+  offset: 0, 0
+  index: -1
+Lycan_sh
+  rotate: false
+  xy: 782, 18
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Sh
+  rotate: false
+  xy: 782, 18
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Lycan_tail
+  rotate: false
+  xy: 87, 31
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+Lycan_th
+  rotate: false
+  xy: 875, 87
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 158, 6
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 345, 5
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 427, 6
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 222, 11
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 876, 241
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 87, 1
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: true
+  xy: 662, 83
+  size: 76, 118
+  orig: 76, 119
+  offset: 0, 0
+  index: -1
+W2
+  rotate: true
+  xy: 537, 172
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 230, 130
+  size: 166, 170
+  orig: 167, 171
+  offset: 0, 1
+  index: -1

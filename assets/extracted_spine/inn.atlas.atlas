@@ -1,0 +1,48 @@
+
+inn.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 209
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: true
+  xy: 1, 96
+  size: 43, 102
+  orig: 43, 102
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 1, 141
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 1, 42
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Layer 608
+  rotate: true
+  xy: 62, 39
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+Layer 610 copy
+  rotate: false
+  xy: 1, 1
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

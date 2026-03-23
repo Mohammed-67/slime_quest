@@ -1,0 +1,146 @@
+
+20220_dwarf.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: true
+  xy: 286, 48
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 181, 59
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 410, 69
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 363, 4
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 324, 67
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 366, 72
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: true
+  xy: 113, 48
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+Face_acc
+  rotate: true
+  xy: 236, 57
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 324, 28
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 407, 33
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 454, 97
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 181, 25
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 113, 15
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 394, 1
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 450, 33
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 366, 34
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 277, 18
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 1, 29
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+effect1_1
+  rotate: false
+  xy: 410, 93
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+effect1_2
+  rotate: true
+  xy: 225, 29
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+undeadcastle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 537, 240
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 1, 1
+  size: 274, 266
+  orig: 274, 266
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 1, 514
+  size: 527, 490
+  orig: 527, 490
+  offset: 0, 0
+  index: -1
+1_3_1
+  rotate: false
+  xy: 277, 26
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+1_3_2
+  rotate: false
+  xy: 317, 26
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 530, 514
+  size: 442, 372
+  orig: 442, 372
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 1, 269
+  size: 243, 534
+  orig: 243, 534
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 277, 84
+  size: 135, 183
+  orig: 135, 183
+  offset: 0, 0
+  index: -1

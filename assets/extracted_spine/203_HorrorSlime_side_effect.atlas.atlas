@@ -1,0 +1,34 @@
+
+203_HorrorSlime_side_effect.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 1, 39
+  size: 374, 293
+  orig: 374, 293
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 377, 39
+  size: 194, 163
+  orig: 194, 163
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 377, 235
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1, 1
+  size: 434, 36
+  orig: 434, 36
+  offset: 0, 0
+  index: -1

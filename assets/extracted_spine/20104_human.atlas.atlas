@@ -1,0 +1,125 @@
+
+20104_human.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 398, 82
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+Clock
+  rotate: true
+  xy: 332, 73
+  size: 74, 64
+  orig: 79, 64
+  offset: 5, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 1, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 332, 31
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 403, 38
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 207, 63
+  size: 84, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: true
+  xy: 121, 37
+  size: 110, 84
+  orig: 110, 84
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 207, 25
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 469, 36
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 30, 19
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 121, 1
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 449, 3
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 462, 82
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 403, 1
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 166, 7
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 283, 31
+  size: 47, 116
+  orig: 47, 116
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 1, 30
+  size: 118, 117
+  orig: 118, 117
+  offset: 0, 0
+  index: -1

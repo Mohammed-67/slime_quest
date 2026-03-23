@@ -1,0 +1,62 @@
+
+20520_Fish.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect
+  rotate: true
+  xy: 155, 8
+  size: 129, 75
+  orig: 129, 75
+  offset: 0, 0
+  index: -1
+Fish_Mouth1
+  rotate: true
+  xy: 316, 33
+  size: 104, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+Fish_Mouth2
+  rotate: true
+  xy: 376, 33
+  size: 104, 57
+  orig: 105, 57
+  offset: 0, 0
+  index: -1
+Fish_body
+  rotate: false
+  xy: 1, 1
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+Fish_eye
+  rotate: false
+  xy: 232, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Fish_mouth3
+  rotate: false
+  xy: 232, 34
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+Fish_tail
+  rotate: false
+  xy: 435, 57
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+Layer 1395 copy 2
+  rotate: false
+  xy: 435, 13
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1

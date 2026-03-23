@@ -1,0 +1,76 @@
+
+10000_slime.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body1
+  rotate: false
+  xy: 1, 7
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+Eye33
+  rotate: true
+  xy: 235, 6
+  size: 66, 38
+  orig: 66, 44
+  offset: 0, 6
+  index: -1
+L_eye1
+  rotate: true
+  xy: 71, 2
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+R_eye1
+  rotate: true
+  xy: 71, 2
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+L_eye2
+  rotate: false
+  xy: 275, 42
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 1, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+R_eye2
+  rotate: false
+  xy: 275, 10
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+awdawd
+  rotate: false
+  xy: 89, 14
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 194, 2
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+eye2_2
+  rotate: true
+  xy: 149, 4
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1

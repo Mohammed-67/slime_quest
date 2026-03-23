@@ -1,0 +1,61 @@
+Gacha_background.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 367, 186
+  size: 210, 615
+  orig: 210, 615
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 186
+  size: 168, 615
+  orig: 168, 615
+  offset: 0, 0
+  index: -1
+Banner
+  rotate: false
+  xy: 245, 412
+  size: 112, 195
+  orig: 112, 195
+  offset: 0, 0
+  index: -1
+Black
+  rotate: false
+  xy: 245, 361
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Canter
+  rotate: true
+  xy: 3, 3
+  size: 315, 362
+  orig: 315, 362
+  offset: 0, 0
+  index: -1
+Dark
+  rotate: false
+  xy: 245, 609
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 172, 280
+  size: 71, 521
+  orig: 71, 521
+  offset: 0, 0
+  index: -1
+Low_wall
+  rotate: false
+  xy: 359, 517
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1

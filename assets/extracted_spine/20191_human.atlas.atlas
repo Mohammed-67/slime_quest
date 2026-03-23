@@ -1,0 +1,216 @@
+
+20191_human.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 441, 70
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+Clock
+  rotate: false
+  xy: 116, 57
+  size: 73, 62
+  orig: 77, 62
+  offset: 4, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 379, 135
+  size: 137, 80
+  orig: 137, 80
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 256, 45
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 190, 76
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 1, 168
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 461, 138
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 107, 22
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 374, 22
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 47, 6
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 328, 136
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 254, 10
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 419, 1
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Vehicle_ Body
+  rotate: false
+  xy: 328, 58
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1
+Vehicle_ Body_2
+  rotate: false
+  xy: 1, 89
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+Vehicle_Eye1
+  rotate: false
+  xy: 459, 4
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Vehicle_Eye2
+  rotate: false
+  xy: 256, 78
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+Vehicle_Head
+  rotate: false
+  xy: 262, 172
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+Vehicle_Head_2
+  rotate: false
+  xy: 143, 170
+  size: 117, 102
+  orig: 117, 102
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1
+  rotate: false
+  xy: 176, 28
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Vehicle_Leg2
+  rotate: false
+  xy: 176, 28
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1_2
+  rotate: false
+  xy: 461, 224
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg2_2
+  rotate: false
+  xy: 461, 224
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3
+  rotate: false
+  xy: 215, 28
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3_2
+  rotate: false
+  xy: 461, 174
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg4
+  rotate: true
+  xy: 441, 31
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+Vehicle_Leg4_2
+  rotate: false
+  xy: 66, 39
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Tail
+  rotate: 180
+  xy: 1, 27
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+W1
+  rotate: true
+  xy: 143, 120
+  size: 48, 183
+  orig: 48, 183
+  offset: 0, 0
+  index: -1
+steam
+  rotate: true
+  xy: 326, 24
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1

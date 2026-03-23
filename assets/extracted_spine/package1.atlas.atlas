@@ -1,0 +1,272 @@
+
+package1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 936, 507
+  size: 536, 351
+  orig: 538, 353
+  offset: 1, 1
+  index: -1
+Group 37 copy 3
+  rotate: false
+  xy: 1947, 883
+  size: 75, 74
+  orig: 77, 76
+  offset: 1, 1
+  index: -1
+Group 37 copy 4
+  rotate: false
+  xy: 2033, 1031
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+Group 37 copy 5
+  rotate: false
+  xy: 2, 491
+  size: 932, 552
+  orig: 934, 554
+  offset: 1, 1
+  index: -1
+Group 37 copy 6
+  rotate: false
+  xy: 2033, 1020
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+Group 37 copy 7
+  rotate: false
+  xy: 2024, 945
+  size: 13, 12
+  orig: 128, 128
+  offset: 58, 58
+  index: -1
+Group 37 copy 8
+  rotate: false
+  xy: 2024, 931
+  size: 13, 12
+  orig: 15, 14
+  offset: 1, 1
+  index: -1
+Group 37 copy 9
+  rotate: false
+  xy: 2024, 931
+  size: 13, 12
+  orig: 15, 14
+  offset: 1, 1
+  index: -1
+Layer 192 c12
+  rotate: false
+  xy: 1487, 145
+  size: 287, 147
+  orig: 289, 147
+  offset: 1, 0
+  index: -1
+Layer 192 copy 14
+  rotate: false
+  xy: 556, 258
+  size: 367, 231
+  orig: 383, 244
+  offset: 8, 5
+  index: -1
+Layer 222
+  rotate: false
+  xy: 1947, 822
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Layer 470
+  rotate: true
+  xy: 876, 64
+  size: 28, 550
+  orig: 30, 552
+  offset: 1, 1
+  index: -1
+Layer 470 copy
+  rotate: true
+  xy: 406, 52
+  size: 10, 550
+  orig: 12, 552
+  offset: 1, 1
+  index: -1
+Layer 470 copy 2
+  rotate: true
+  xy: 406, 34
+  size: 6, 550
+  orig: 8, 552
+  offset: 1, 1
+  index: -1
+Layer 470 copy 3
+  rotate: true
+  xy: 406, 34
+  size: 6, 550
+  orig: 8, 552
+  offset: 1, 1
+  index: -1
+Layer 474
+  rotate: true
+  xy: 2, 327
+  size: 162, 552
+  orig: 162, 552
+  offset: 0, 0
+  index: -1
+Layer 474 copy
+  rotate: true
+  xy: 1633, 649
+  size: 394, 312
+  orig: 396, 326
+  offset: 1, 1
+  index: -1
+Layer 474 copy 2
+  rotate: true
+  xy: 958, 52
+  size: 10, 517
+  orig: 10, 517
+  offset: 0, 0
+  index: -1
+Layer 474 copy 3
+  rotate: true
+  xy: 406, 42
+  size: 8, 549
+  orig: 10, 551
+  offset: 1, 1
+  index: -1
+Layer 474 copy 4
+  rotate: true
+  xy: 1289, 345
+  size: 302, 398
+  orig: 304, 400
+  offset: 1, 1
+  index: -1
+Layer 483
+  rotate: true
+  xy: 1630, 100
+  size: 20, 251
+  orig: 20, 251
+  offset: 0, 0
+  index: -1
+Layer 484
+  rotate: true
+  xy: 1289, 653
+  size: 13, 251
+  orig: 13, 251
+  offset: 0, 0
+  index: -1
+Layer 484 copy 4
+  rotate: true
+  xy: 1487, 332
+  size: 11, 165
+  orig: 11, 165
+  offset: 0, 0
+  index: -1
+Layer 485
+  rotate: false
+  xy: 1776, 122
+  size: 169, 170
+  orig: 181, 184
+  offset: 6, 7
+  index: -1
+Layer 485 copy
+  rotate: false
+  xy: 1487, 2
+  size: 141, 141
+  orig: 155, 156
+  offset: 7, 8
+  index: -1
+Layer 4852
+  rotate: false
+  xy: 1947, 959
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Layer 486
+  rotate: false
+  xy: 1049, 98
+  size: 149, 149
+  orig: 179, 178
+  offset: 15, 15
+  index: -1
+Layer 486 copy
+  rotate: false
+  xy: 1049, 98
+  size: 149, 149
+  orig: 179, 178
+  offset: 15, 15
+  index: -1
+Layer 486 copy 2
+  rotate: false
+  xy: 533, 89
+  size: 168, 167
+  orig: 194, 193
+  offset: 13, 13
+  index: -1
+Layer 487
+  rotate: false
+  xy: 260, 19
+  size: 144, 144
+  orig: 158, 158
+  offset: 7, 7
+  index: -1
+Layer 488
+  rotate: false
+  xy: 2, 107
+  size: 256, 218
+  orig: 269, 230
+  offset: 7, 5
+  index: -1
+Layer 4881
+  rotate: false
+  xy: 876, 117
+  size: 171, 130
+  orig: 171, 130
+  offset: 0, 0
+  index: -1
+Layer 489
+  rotate: true
+  xy: 1689, 294
+  size: 353, 246
+  orig: 369, 259
+  offset: 8, 5
+  index: -1
+Layer 489_
+  rotate: false
+  xy: 260, 165
+  size: 271, 160
+  orig: 271, 160
+  offset: 0, 0
+  index: -1
+Layer 490
+  rotate: false
+  xy: 1229, 94
+  size: 256, 249
+  orig: 269, 261
+  offset: 7, 5
+  index: -1
+Layer 490_
+  rotate: false
+  xy: 703, 93
+  size: 171, 163
+  orig: 171, 163
+  offset: 0, 0
+  index: -1
+Layer 491
+  rotate: false
+  xy: 936, 249
+  size: 291, 256
+  orig: 293, 258
+  offset: 1, 1
+  index: -1
+Layer 491 copy
+  rotate: true
+  xy: 1289, 668
+  size: 375, 342
+  orig: 389, 354
+  offset: 7, 5
+  index: -1

@@ -1,0 +1,132 @@
+
+NPC_Spider.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 303, 213
+  size: 204, 130
+  orig: 204, 130
+  offset: 0, 0
+  index: -1
+Book
+  rotate: false
+  xy: 1, 149
+  size: 229, 268
+  orig: 229, 268
+  offset: 0, 0
+  index: -1
+Bottom
+  rotate: true
+  xy: 232, 71
+  size: 346, 69
+  orig: 346, 69
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: false
+  xy: 1, 66
+  size: 138, 81
+  orig: 138, 81
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 172, 8
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 303, 71
+  size: 176, 140
+  orig: 176, 140
+  offset: 0, 0
+  index: -1
+L_candles1
+  rotate: false
+  xy: 141, 73
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+L_candles2
+  rotate: false
+  xy: 303, 205
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+candles2
+  rotate: false
+  xy: 303, 205
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+L_candles3
+  rotate: false
+  xy: 378, 8
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+candles3
+  rotate: false
+  xy: 378, 8
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+L_hair
+  rotate: false
+  xy: 435, 320
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 100, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+L_teeth
+  rotate: false
+  xy: 1, 14
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+R_hair
+  rotate: false
+  xy: 435, 221
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+R_teeth
+  rotate: false
+  xy: 331, 13
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+candles1
+  rotate: true
+  xy: 437, 8
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 251, 32
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1

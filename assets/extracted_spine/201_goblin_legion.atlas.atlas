@@ -1,0 +1,97 @@
+
+201_goblin_legion.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 35
+  size: 53, 50
+  orig: 57, 53
+  offset: 2, 2
+  index: -1
+Ef
+  rotate: true
+  xy: 56, 35
+  size: 50, 41
+  orig: 54, 45
+  offset: 2, 2
+  index: -1
+Facce
+  rotate: false
+  xy: 1, 144
+  size: 77, 59
+  orig: 81, 63
+  offset: 2, 2
+  index: -1
+Insignia
+  rotate: false
+  xy: 1, 205
+  size: 89, 118
+  orig: 93, 122
+  offset: 2, 2
+  index: -1
+L_Hand
+  rotate: false
+  xy: 92, 193
+  size: 23, 23
+  orig: 27, 27
+  offset: 2, 2
+  index: -1
+R_Hand
+  rotate: false
+  xy: 92, 193
+  size: 23, 23
+  orig: 27, 27
+  offset: 2, 2
+  index: -1
+L_Leg
+  rotate: false
+  xy: 88, 5
+  size: 24, 28
+  orig: 28, 33
+  offset: 2, 3
+  index: -1
+R_Leg
+  rotate: false
+  xy: 88, 5
+  size: 24, 28
+  orig: 28, 33
+  offset: 2, 3
+  index: -1
+Mouth
+  rotate: false
+  xy: 49, 6
+  size: 37, 27
+  orig: 41, 31
+  offset: 2, 2
+  index: -1
+Sh
+  rotate: false
+  xy: 62, 87
+  size: 45, 45
+  orig: 49, 49
+  offset: 2, 2
+  index: -1
+W1
+  rotate: false
+  xy: 80, 134
+  size: 26, 57
+  orig: 30, 60
+  offset: 2, 2
+  index: -1
+W2
+  rotate: true
+  xy: 1, 87
+  size: 55, 59
+  orig: 59, 64
+  offset: 2, 3
+  index: -1
+steam
+  rotate: true
+  xy: 1, 1
+  size: 32, 46
+  orig: 36, 50
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,55 @@
+
+10005_skill2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye
+  rotate: true
+  xy: 113, 3
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1, 42
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 72, 1
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: 180
+  xy: 83, 108
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 131, 42
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: true
+  xy: 22, 4
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 90, 67
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+10003_slime_skill_electric_shock.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef1_1
+  rotate: false
+  xy: 0, 3
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+thun1
+  rotate: false
+  xy: 93, 0
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+thun2
+  rotate: false
+  xy: 162, 0
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1

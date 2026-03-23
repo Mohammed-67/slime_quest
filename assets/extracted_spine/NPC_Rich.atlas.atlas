@@ -1,0 +1,174 @@
+
+NPC_Rich.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bat_Head
+  rotate: false
+  xy: 427, 56
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+Bat_L_wing
+  rotate: false
+  xy: 105, 8
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+Bat_Leye
+  rotate: false
+  xy: 1, 240
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Bat_R_wing
+  rotate: false
+  xy: 180, 8
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+Bat_Reye
+  rotate: false
+  xy: 239, 239
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 263
+  size: 270, 140
+  orig: 270, 140
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 1, 145
+  size: 270, 116
+  orig: 270, 116
+  offset: 0, 0
+  index: -1
+Eff2
+  rotate: false
+  xy: 273, 238
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+Face_eff
+  rotate: false
+  xy: 1, 272
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Head
+  rotate: 180
+  xy: 272, 88
+  size: 168, 148
+  orig: 168, 148
+  offset: 0, 0
+  index: -1
+L_Eye1
+  rotate: true
+  xy: 1, 1
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+L_Eye2
+  rotate: false
+  xy: 440, 334
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 105, 67
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+L_Horn
+  rotate: true
+  xy: 261, 25
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 489, 165
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+R_Eye1
+  rotate: true
+  xy: 432, 16
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+R_Eye2
+  rotate: true
+  xy: 440, 279
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 183, 67
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+R_Horn
+  rotate: true
+  xy: 354, 22
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+beed
+  rotate: false
+  xy: 1, 41
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+beed_light1
+  rotate: false
+  xy: 240, 272
+  size: 32, 32
+  orig: 152, 152
+  offset: 60, 60
+  index: -1
+beed_light2
+  rotate: false
+  xy: 495, 389
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+beed_light3
+  rotate: false
+  xy: 259, 213
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+head_acc
+  rotate: false
+  xy: 433, 172
+  size: 78, 102
+  orig: 78, 102
+  offset: 0, 0
+  index: -1

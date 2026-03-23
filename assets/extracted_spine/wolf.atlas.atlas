@@ -1,0 +1,83 @@
+
+wolf.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 182
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 31, 1
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 1, 6
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 1, 249
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+Face2
+  rotate: false
+  xy: 1, 124
+  size: 97, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: true
+  xy: 53, 91
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: true
+  xy: 53, 58
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Leg3
+  rotate: true
+  xy: 1, 57
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Leg4
+  rotate: true
+  xy: 49, 25
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1, 90
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+Z
+  rotate: true
+  xy: 59, 4
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1

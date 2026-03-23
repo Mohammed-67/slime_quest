@@ -1,0 +1,285 @@
+20420_lycan.png
+size: 128,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1, 1099
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+Effect_1
+  rotate: true
+  xy: 48, 702
+  size: 92, 27
+  orig: 92, 27
+  offset: 0, 0
+  index: -1
+Effect_2
+  rotate: true
+  xy: 1, 986
+  size: 111, 51
+  orig: 111, 51
+  offset: 0, 0
+  index: -1
+Effect_3
+  rotate: true
+  xy: 1, 879
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 35, 6
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 1, 556
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 1, 512
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Front_Body
+  rotate: false
+  xy: 1, 646
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Front_Eye
+  rotate: false
+  xy: 1, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Front_Face
+  rotate: false
+  xy: 1, 1199
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+Front_L_brow
+  rotate: true
+  xy: 54, 1040
+  size: 35, 27
+  orig: 36, 28
+  offset: 1, 1
+  index: -1
+Front_L_ear
+  rotate: false
+  xy: 1, 370
+  size: 46, 45
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Front_L_hand
+  rotate: false
+  xy: 49, 232
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Front_L_leg
+  rotate: false
+  xy: 49, 186
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Front_R_leg
+  rotate: false
+  xy: 49, 186
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Front_Mouth
+  rotate: false
+  xy: 61, 16
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Front_Mouth3
+  rotate: false
+  xy: 59, 405
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Front_R_brow
+  rotate: false
+  xy: 49, 376
+  size: 36, 27
+  orig: 36, 28
+  offset: 0, 1
+  index: -1
+Front_R_ear
+  rotate: false
+  xy: 1, 323
+  size: 46, 45
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Front_R_hand
+  rotate: false
+  xy: 49, 281
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+L_Brow
+  rotate: false
+  xy: 43, 27
+  size: 35, 27
+  orig: 36, 28
+  offset: 1, 1
+  index: -1
+L_ear
+  rotate: false
+  xy: 1, 276
+  size: 46, 45
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 1, 598
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 1, 146
+  size: 47, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 1, 186
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+R_Brow
+  rotate: true
+  xy: 50, 146
+  size: 36, 27
+  orig: 36, 28
+  offset: 0, 1
+  index: -1
+R_ear
+  rotate: false
+  xy: 1, 229
+  size: 46, 45
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Side_Face
+  rotate: false
+  xy: 1, 1275
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+Side_L_leg
+  rotate: false
+  xy: 1, 73
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Side_R_leg
+  rotate: true
+  xy: 45, 56
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Side_mouth1
+  rotate: true
+  xy: 54, 997
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 1, 463
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+digging
+  rotate: true
+  xy: 1, 702
+  size: 106, 45
+  orig: 106, 45
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 1, 417
+  size: 56, 44
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1, 810
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 1, 108
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 47, 100
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 49, 330
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: false
+  xy: 49, 330
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1, 32
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1

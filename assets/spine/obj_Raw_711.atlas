@@ -1,0 +1,40 @@
+201_goblin_legion_potal.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Goblin_potal_1
+  rotate: false
+  xy: 119, 54
+  size: 85, 120
+  orig: 89, 124
+  offset: 2, 2
+  index: -1
+Goblin_potal_2
+  rotate: true
+  xy: 119, 2
+  size: 50, 72
+  orig: 54, 76
+  offset: 2, 2
+  index: -1
+Goblin_potal_3
+  rotate: false
+  xy: 1, 225
+  size: 25, 36
+  orig: 29, 40
+  offset: 2, 2
+  index: -1
+Goblin_potal_pillar
+  rotate: true
+  xy: 1, 61
+  size: 201, 219
+  orig: 201, 219
+  offset: 0, 0
+  index: -1
+Goblin_potal_skull
+  rotate: true
+  xy: 48, 3
+  size: 83, 69
+  orig: 87, 73
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,20 @@
+
+20522_icecream_effect.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_3
+  rotate: 180
+  xy: 51, 2
+  size: 199, 68
+  orig: 199, 68
+  offset: 0, 0
+  index: -1
+Effect_3_1
+  rotate: false
+  xy: 1, 54
+  size: 243, 100
+  orig: 243, 100
+  offset: 0, 0
+  index: -1

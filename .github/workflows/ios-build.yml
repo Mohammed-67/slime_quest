@@ -1,0 +1,95 @@
+name: iOS Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      build_id:
+        description: 'Unique build identifier'
+        required: true
+        type: string
+      ios_path:
+        description: 'Path to iOS project'
+        required: false
+        type: string
+        default: 'ios'
+      scheme:
+        description: 'Xcode scheme'
+        required: false
+        type: string
+        default: 'Runner'
+      use_signing:
+        description: 'Enable code signing'
+        required: false
+        type: boolean
+        default: false
+      configuration:
+        description: 'Build configuration'
+        required: false
+        type: string
+        default: 'Release'
+      flutter_version:
+        description: 'Flutter version'
+        required: false
+        type: string
+        default: ''
+
+jobs:
+  build:
+    runs-on: macos-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Xcode
+        uses: maxim-lobanov/setup-xcode@v1
+        with:
+          xcode-version: latest-stable
+
+      - name: Detect project type
+        id: detect
+        run: |
+          if [ -f "pubspec.yaml" ]; then
+            echo "type=flutter" >> $GITHUB_OUTPUT
+          else
+            echo "type=native" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Setup Flutter
+        if: steps.detect.outputs.type == 'flutter'
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ inputs.flutter_version || '' }}
+          channel: 'stable'
+          cache: true
+
+      - name: Flutter pub get
+        if: steps.detect.outputs.type == 'flutter'
+        run: flutter pub get
+
+      - name: Decode and Prepare Signing
+        if: inputs.use_signing
+        env:
+          SIGNING_P12: ${{ secrets.SIGNING_P12 }}
+          SIGNING_PASSWORD: ${{ secrets.SIGNING_PASSWORD }}
+          SIGNING_MOBILEPROVISION: ${{ secrets.SIGNING_MOBILEPROVISION }}
+        run: |
+          # Custom signing logic if needed
+          echo "Signing setup..."
+
+      - name: Build and Package
+        run: |
+          if [ "${{ steps.detect.outputs.type }}" == "flutter" ]; then
+            flutter build ipa --release --no-codesign
+            # Move result to dist/ for builder to find
+            mkdir -p dist
+            cp -r build/ios/ipa/*.ipa dist/app.ipa
+          fi
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-build-${{ inputs.build_id }}
+          path: dist/*.ipa
+          retention-days: 1

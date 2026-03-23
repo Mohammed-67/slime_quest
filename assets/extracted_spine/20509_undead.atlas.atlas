@@ -1,0 +1,97 @@
+
+20509_undead.png
+size: 128,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 600
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Body_skell
+  rotate: false
+  xy: 1, 508
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 62, 26
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Eye1_skell
+  rotate: false
+  xy: 62, 9
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 1, 90
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 1, 46
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1, 428
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Head_skell
+  rotate: false
+  xy: 1, 348
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+L_Wing_skell
+  rotate: false
+  xy: 1, 294
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+L_wing
+  rotate: false
+  xy: 1, 240
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1, 1
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 1, 186
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+R_Wing_skell
+  rotate: false
+  xy: 1, 132
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1

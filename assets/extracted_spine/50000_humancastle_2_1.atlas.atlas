@@ -1,0 +1,83 @@
+
+50000_humancastle_2_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 33
+  rotate: false
+  xy: 1, 167
+  size: 698, 394
+  orig: 698, 394
+  offset: 0, 0
+  index: -1
+ba2
+  rotate: true
+  xy: 632, 57
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+back
+  rotate: true
+  xy: 1, 47
+  size: 118, 250
+  orig: 118, 250
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 782, 24
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 253, 59
+  size: 377, 34
+  orig: 377, 34
+  offset: 0, 0
+  index: -1
+door
+  rotate: true
+  xy: 701, 289
+  size: 272, 230
+  orig: 272, 264
+  offset: 0, 0
+  index: -1
+lan
+  rotate: true
+  xy: 253, 1
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+lon
+  rotate: true
+  xy: 886, 148
+  size: 139, 136
+  orig: 139, 136
+  offset: 0, 0
+  index: -1
+low
+  rotate: false
+  xy: 253, 95
+  size: 335, 70
+  orig: 335, 70
+  offset: 0, 0
+  index: -1
+sh
+  rotate: false
+  xy: 886, 41
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 701, 123
+  size: 183, 165
+  orig: 183, 165
+  offset: 0, 0
+  index: -1

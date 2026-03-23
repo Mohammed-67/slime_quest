@@ -1,0 +1,138 @@
+20203_dwarf.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: true
+  xy: 101, 212
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 91
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 119, 372
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 84, 75
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 92, 146
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 1, 146
+  size: 89, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Face_hair
+  rotate: false
+  xy: 1, 42
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 110, 328
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 1, 293
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 42, 1
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 84, 37
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 110, 284
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: false
+  xy: 119, 442
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 125, 43
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 85, 1
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 1, 4
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 119, 402
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 1, 367
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+WW
+  rotate: false
+  xy: 1, 216
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1

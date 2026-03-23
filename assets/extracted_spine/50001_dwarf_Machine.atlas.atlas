@@ -1,0 +1,41 @@
+
+50001_dwarf_Machine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 236, 228
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 424, 53
+  size: 147, 35
+  orig: 147, 35
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 6
+  size: 233, 296
+  orig: 233, 590
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: 180
+  xy: 212, 2
+  size: 211, 300
+  orig: 233, 590
+  offset: 0, 290
+  index: -1
+4
+  rotate: false
+  xy: 424, 90
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1

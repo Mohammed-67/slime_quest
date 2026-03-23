@@ -1,0 +1,251 @@
+
+20293_dwarf.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Acc
+  rotate: true
+  xy: 559, 68
+  size: 76, 57
+  orig: 80, 61
+  offset: 2, 2
+  index: -1
+Beard
+  rotate: false
+  xy: 559, 17
+  size: 79, 48
+  orig: 83, 52
+  offset: 2, 2
+  index: -1
+Beard3
+  rotate: false
+  xy: 640, 18
+  size: 90, 38
+  orig: 94, 42
+  offset: 2, 2
+  index: -1
+Boar_body
+  rotate: true
+  xy: 340, 28
+  size: 116, 82
+  orig: 120, 86
+  offset: 2, 2
+  index: -1
+Boar_eye1
+  rotate: false
+  xy: 67, 3
+  size: 50, 25
+  orig: 54, 29
+  offset: 2, 2
+  index: -1
+Boar_face
+  rotate: true
+  xy: 239, 38
+  size: 106, 99
+  orig: 110, 103
+  offset: 2, 2
+  index: -1
+Boar_leg_1
+  rotate: false
+  xy: 842, 12
+  size: 34, 44
+  orig: 38, 48
+  offset: 2, 2
+  index: -1
+Boar_leg_2
+  rotate: false
+  xy: 842, 12
+  size: 34, 44
+  orig: 38, 48
+  offset: 2, 2
+  index: -1
+Boar_leg_3
+  rotate: false
+  xy: 848, 58
+  size: 34, 44
+  orig: 38, 48
+  offset: 2, 2
+  index: -1
+Boar_leg_4
+  rotate: false
+  xy: 848, 58
+  size: 34, 44
+  orig: 38, 48
+  offset: 2, 2
+  index: -1
+Boar_nose
+  rotate: true
+  xy: 673, 58
+  size: 86, 44
+  orig: 90, 48
+  offset: 2, 2
+  index: -1
+Boar_tail
+  rotate: true
+  xy: 331, 1
+  size: 25, 32
+  orig: 29, 36
+  offset: 2, 2
+  index: -1
+Boar_tear
+  rotate: true
+  xy: 910, 102
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 618, 67
+  size: 77, 53
+  orig: 81, 57
+  offset: 2, 2
+  index: -1
+Brow
+  rotate: false
+  xy: 1, 6
+  size: 64, 22
+  orig: 68, 26
+  offset: 2, 2
+  index: -1
+Clock
+  rotate: true
+  xy: 424, 28
+  size: 116, 63
+  orig: 120, 67
+  offset: 2, 2
+  index: -1
+Crown
+  rotate: true
+  xy: 761, 58
+  size: 62, 39
+  orig: 66, 43
+  offset: 2, 2
+  index: -1
+Eye1
+  rotate: true
+  xy: 918, 58
+  size: 29, 28
+  orig: 33, 32
+  offset: 2, 2
+  index: -1
+Eye2
+  rotate: true
+  xy: 719, 58
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 802, 109
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: false
+  xy: 119, 11
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 489, 10
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: true
+  xy: 489, 54
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 145, 24
+  size: 120, 92
+  orig: 124, 96
+  offset: 2, 2
+  index: -1
+L_arm
+  rotate: true
+  xy: 791, 12
+  size: 44, 49
+  orig: 48, 53
+  offset: 2, 2
+  index: -1
+L_leg
+  rotate: true
+  xy: 872, 104
+  size: 39, 36
+  orig: 43, 40
+  offset: 2, 2
+  index: -1
+Mouth2
+  rotate: false
+  xy: 884, 58
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 239, 5
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 288, 5
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 365, 2
+  size: 30, 24
+  orig: 34, 28
+  offset: 2, 2
+  index: -1
+R_arm
+  rotate: false
+  xy: 802, 58
+  size: 44, 49
+  orig: 48, 53
+  offset: 2, 2
+  index: -1
+R_leg
+  rotate: true
+  xy: 878, 17
+  size: 39, 36
+  orig: 43, 40
+  offset: 2, 2
+  index: -1
+Sweat
+  rotate: false
+  xy: 916, 18
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 1, 30
+  size: 142, 114
+  orig: 146, 118
+  offset: 2, 2
+  index: -1
+bubble2
+  rotate: false
+  xy: 732, 9
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1

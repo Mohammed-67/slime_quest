@@ -1,0 +1,41 @@
+
+20293_dwarf_turret.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Turret_1
+  rotate: false
+  xy: 304, 41
+  size: 51, 51
+  orig: 55, 55
+  offset: 2, 2
+  index: -1
+Turret_body
+  rotate: false
+  xy: 1, 20
+  size: 130, 72
+  orig: 134, 76
+  offset: 2, 2
+  index: -1
+Turret_bottom
+  rotate: false
+  xy: 133, 1
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+Turret_shot
+  rotate: true
+  xy: 232, 9
+  size: 83, 70
+  orig: 87, 74
+  offset: 2, 2
+  index: -1
+Turret_top
+  rotate: true
+  xy: 304, 6
+  size: 33, 44
+  orig: 37, 48
+  offset: 2, 2
+  index: -1

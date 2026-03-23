@@ -1,0 +1,188 @@
+
+20292_dwarf.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: false
+  xy: 1, 446
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+Beard2
+  rotate: false
+  xy: 41, 121
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Beard3
+  rotate: true
+  xy: 80, 219
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 256
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 1, 142
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Clock
+  rotate: false
+  xy: 1, 311
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: true
+  xy: 99, 106
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 41, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 1, 214
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: true
+  xy: 105, 442
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 93, 376
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 1, 376
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 42, 32
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1, 75
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 97, 68
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 81, 34
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 81, 1
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 111, 311
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 51, 71
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 1, 37
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 1, 7
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: true
+  xy: 1, 594
+  size: 85, 126
+  orig: 85, 126
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 1, 681
+  size: 126, 152
+  orig: 126, 152
+  offset: 0, 0
+  index: -1
+W3
+  rotate: false
+  xy: 1, 514
+  size: 117, 78
+  orig: 117, 78
+  offset: 0, 0
+  index: -1
+W_particle
+  rotate: false
+  xy: 119, 343
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: false
+  xy: 72, 170
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1

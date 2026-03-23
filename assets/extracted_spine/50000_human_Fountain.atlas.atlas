@@ -1,0 +1,111 @@
+
+50000_human_Fountain.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 202, 111
+  size: 393, 132
+  orig: 393, 132
+  offset: 0, 0
+  index: -1
+333
+  rotate: false
+  xy: 202, 29
+  size: 170, 80
+  orig: 170, 80
+  offset: 0, 0
+  index: -1
+Bg1
+  rotate: true
+  xy: 1, 5
+  size: 341, 199
+  orig: 341, 199
+  offset: 0, 0
+  index: -1
+Bg2
+  rotate: true
+  xy: 336, 111
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 175, 592
+  size: 192, 204
+  orig: 192, 204
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 411, 356
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: true
+  xy: 336, 231
+  size: 123, 75
+  orig: 123, 75
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1, 348
+  size: 217, 436
+  orig: 217, 436
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: 180
+  xy: 293, 459
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 381, 592
+  size: 62, 145
+  orig: 62, 145
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 336, 356
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 374, 2
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 220, 545
+  size: 65, 56
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 374, 53
+  size: 65, 56
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+W3
+  rotate: false
+  xy: 68, 766
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

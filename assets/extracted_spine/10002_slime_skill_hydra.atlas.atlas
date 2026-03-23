@@ -1,0 +1,69 @@
+
+10002_slime_skill_hydra.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Snake_body
+  rotate: true
+  xy: 1, 233
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Snake_body1
+  rotate: true
+  xy: 22, 139
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Snake_body2
+  rotate: true
+  xy: 1, 46
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+Snake_eye1
+  rotate: false
+  xy: 54, 112
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Snake_eye2
+  rotate: false
+  xy: 56, 56
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Snake_head
+  rotate: false
+  xy: 1, 400
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+Snake_head1
+  rotate: false
+  xy: 1, 330
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+Snake_mouth
+  rotate: true
+  xy: 50, 2
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+Snake_mouth2
+  rotate: true
+  xy: 1, 9
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1

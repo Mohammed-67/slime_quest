@@ -1,0 +1,76 @@
+
+50001_dwarfcastle_1.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 206, 448
+  size: 101, 394
+  orig: 101, 394
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1, 471
+  size: 193, 371
+  orig: 193, 371
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 127, 28
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 93, 654
+  size: 89, 169
+  orig: 89, 169
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1, 1
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 226, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1, 266
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 226, 38
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 206, 266
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1, 127
+  size: 137, 267
+  orig: 137, 267
+  offset: 0, 0
+  index: -1

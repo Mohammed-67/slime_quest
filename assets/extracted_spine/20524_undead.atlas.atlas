@@ -1,0 +1,314 @@
+
+20524_undead.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: true
+  xy: 120, 80
+  size: 168, 99
+  orig: 168, 99
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 662, 141
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+Brow1
+  rotate: false
+  xy: 1, 43
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+Brow2
+  rotate: true
+  xy: 509, 53
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+Brow3
+  rotate: false
+  xy: 664, 63
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+Cap
+  rotate: true
+  xy: 578, 141
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: true
+  xy: 425, 119
+  size: 129, 75
+  orig: 129, 75
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 187, 5
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 715, 70
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 307, 30
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: false
+  xy: 372, 3
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 152, 36
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Eye_skell
+  rotate: false
+  xy: 412, 2
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 578, 65
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+Face1_skell
+  rotate: false
+  xy: 221, 50
+  size: 84, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: true
+  xy: 83, 30
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 713, 141
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+L_Eye_Brow
+  rotate: false
+  xy: 79, 4
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 715, 28
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 615, 28
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 527, 9
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 218, 17
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 1, 10
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 337, 1
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+R_Eye_Brow
+  rotate: false
+  xy: 297, 4
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 566, 23
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 661, 26
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: false
+  xy: 267, 10
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Tree
+  rotate: false
+  xy: 1, 86
+  size: 117, 162
+  orig: 117, 162
+  offset: 0, 0
+  index: -1
+Vehicle_Body
+  rotate: false
+  xy: 307, 63
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+Vehicle_Body_skell
+  rotate: false
+  xy: 408, 56
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+Vehicle_Eye1_skell
+  rotate: false
+  xy: 119, 4
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Vehicle_Eye_skell
+  rotate: false
+  xy: 447, 1
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Vehicle_Face1
+  rotate: true
+  xy: 221, 126
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+Vehicle_Face1_skell
+  rotate: true
+  xy: 323, 126
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1
+  rotate: true
+  xy: 713, 210
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg2
+  rotate: true
+  xy: 713, 210
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1_skell
+  rotate: true
+  xy: 377, 22
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3
+  rotate: true
+  xy: 427, 22
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg4
+  rotate: true
+  xy: 427, 22
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3_skell
+  rotate: true
+  xy: 477, 19
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Tail
+  rotate: true
+  xy: 44, 12
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Vehicle_Tail_skell
+  rotate: true
+  xy: 152, 5
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 502, 125
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+10003_slime_skill_cloud.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ef1_1
+  rotate: false
+  xy: 154, 2
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 247, 40
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 0, 0
+  size: 154, 95
+  orig: 154, 95
+  offset: 0, 0
+  index: -1

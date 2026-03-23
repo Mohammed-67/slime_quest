@@ -1,0 +1,181 @@
+
+Gacha_mimic.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 235, 555
+  size: 232, 110
+  orig: 232, 110
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: true
+  xy: 235, 321
+  size: 232, 110
+  orig: 232, 110
+  offset: 0, 0
+  index: -1
+Body123
+  rotate: true
+  xy: 246, 87
+  size: 232, 110
+  orig: 232, 110
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 1, 195
+  size: 241, 117
+  orig: 244, 118
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 1, 4
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 140, 6
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 238, 29
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+Lid
+  rotate: true
+  xy: 444, 523
+  size: 232, 114
+  orig: 232, 114
+  offset: 0, 0
+  index: -1
+Lid1
+  rotate: false
+  xy: 1, 65
+  size: 244, 128
+  orig: 244, 128
+  offset: 0, 0
+  index: -1
+Lid2
+  rotate: true
+  xy: 358, 277
+  size: 232, 95
+  orig: 232, 95
+  offset: 0, 0
+  index: -1
+Lid2_1
+  rotate: true
+  xy: 347, 511
+  size: 232, 95
+  orig: 232, 95
+  offset: 0, 0
+  index: -1
+Lid2_2
+  rotate: true
+  xy: 347, 745
+  size: 242, 102
+  orig: 244, 103
+  offset: 1, 0
+  index: -1
+Lid3
+  rotate: false
+  xy: 1, 625
+  size: 232, 162
+  orig: 232, 162
+  offset: 0, 0
+  index: -1
+Lid3_1
+  rotate: false
+  xy: 1, 461
+  size: 232, 162
+  orig: 232, 162
+  offset: 0, 0
+  index: -1
+Lid3_2
+  rotate: false
+  xy: 1, 789
+  size: 241, 198
+  orig: 241, 198
+  offset: 0, 0
+  index: -1
+Lid4
+  rotate: false
+  xy: 455, 402
+  size: 117, 119
+  orig: 117, 119
+  offset: 0, 0
+  index: -1
+Lid5
+  rotate: false
+  xy: 243, 894
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+Lid6
+  rotate: true
+  xy: 358, 45
+  size: 230, 93
+  orig: 230, 93
+  offset: 0, 0
+  index: -1
+Lid87
+  rotate: true
+  xy: 453, 55
+  size: 232, 114
+  orig: 232, 114
+  offset: 0, 0
+  index: -1
+Teeth
+  rotate: true
+  xy: 73, 2
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 243, 789
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+Tongue1
+  rotate: false
+  xy: 449, 888
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+Tongue2
+  rotate: false
+  xy: 449, 788
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 455, 289
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+inside
+  rotate: false
+  xy: 1, 313
+  size: 197, 146
+  orig: 197, 146
+  offset: 0, 0
+  index: -1

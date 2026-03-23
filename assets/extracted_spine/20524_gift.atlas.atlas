@@ -1,0 +1,20 @@
+
+20524_gift.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift
+  rotate: false
+  xy: 1, 170
+  size: 163, 167
+  orig: 163, 167
+  offset: 0, 0
+  index: -1
+gift1
+  rotate: false
+  xy: 1, 1
+  size: 163, 167
+  orig: 163, 167
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+WorldMap_box.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box1_1
+  rotate: false
+  xy: 2, 105
+  size: 113, 101
+  orig: 115, 103
+  offset: 1, 1
+  index: -1
+Box1_2
+  rotate: false
+  xy: 2, 354
+  size: 113, 144
+  orig: 115, 146
+  offset: 1, 1
+  index: -1
+Box2_1
+  rotate: false
+  xy: 2, 2
+  size: 113, 101
+  orig: 115, 103
+  offset: 1, 1
+  index: -1
+Box2_2
+  rotate: false
+  xy: 2, 208
+  size: 113, 144
+  orig: 115, 146
+  offset: 1, 1
+  index: -1

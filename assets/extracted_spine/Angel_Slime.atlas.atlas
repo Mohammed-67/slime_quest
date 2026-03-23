@@ -1,0 +1,76 @@
+
+Angel_Slime.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Angel_ring
+  rotate: false
+  xy: 111, 40
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 111
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 89, 151
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 82, 82
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+L_Wing
+  rotate: false
+  xy: 1, 55
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 88, 128
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 30, 3
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: false
+  xy: 82, 101
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 204, 1
+  size: 99, 378
+  orig: 99, 378
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1, 178
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1

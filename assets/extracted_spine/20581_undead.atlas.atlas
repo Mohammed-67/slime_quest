@@ -1,0 +1,111 @@
+
+20581_undead.png
+size: 128,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 246
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: false
+  xy: 41, 1
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 1, 204
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 1, 160
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1, 302
+  size: 84, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 47, 112
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 1, 123
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 1, 11
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 1, 50
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: false
+  xy: 46, 21
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 47, 64
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1, 86
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 1, 20
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 1, 498
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+trumpet
+  rotate: true
+  xy: 1, 388
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1

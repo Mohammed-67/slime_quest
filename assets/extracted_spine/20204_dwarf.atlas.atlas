@@ -1,0 +1,146 @@
+
+20204_dwarf.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: false
+  xy: 120, 35
+  size: 87, 35
+  orig: 87, 35
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 296, 41
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 375, 20
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+Clpck
+  rotate: true
+  xy: 231, 68
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 41, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 209, 26
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 451, 120
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: true
+  xy: 381, 94
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Face_acc
+  rotate: false
+  xy: 375, 44
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 296, 96
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 456, 74
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 280, 3
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 120, 1
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 164, 2
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 72, 6
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 456, 28
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 321, 3
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 1, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 120, 72
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 1, 32
+  size: 117, 152
+  orig: 117, 152
+  offset: 0, 0
+  index: -1

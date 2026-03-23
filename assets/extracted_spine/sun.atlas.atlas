@@ -1,0 +1,27 @@
+
+sun.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sun_eye1
+  rotate: false
+  xy: 181, 25
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+sun_eye2
+  rotate: false
+  xy: 1, 1
+  size: 178, 127
+  orig: 178, 127
+  offset: 0, 0
+  index: -1
+sun_face
+  rotate: false
+  xy: 1, 130
+  size: 486, 486
+  orig: 486, 486
+  offset: 0, 0
+  index: -1

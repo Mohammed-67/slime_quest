@@ -1,0 +1,83 @@
+
+50001_dwarf_Mine.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: 180
+  xy: 110, 79
+  size: 173, 204
+  orig: 173, 204
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 416, 29
+  size: 32, 119
+  orig: 32, 119
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: 180
+  xy: 1, 2
+  size: 281, 121
+  orig: 281, 121
+  offset: 0, 0
+  index: -1
+Bg2
+  rotate: false
+  xy: 285, 150
+  size: 168, 377
+  orig: 168, 377
+  offset: 0, 0
+  index: -1
+Bg3
+  rotate: false
+  xy: 112, 8
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Bg4
+  rotate: false
+  xy: 1, 157
+  size: 478, 585
+  orig: 478, 585
+  offset: 0, 0
+  index: -1
+Black
+  rotate: false
+  xy: 85, 17
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Fire1
+  rotate: false
+  xy: 1, 15
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+Fire2
+  rotate: false
+  xy: 285, 71
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+Fire3
+  rotate: false
+  xy: 357, 55
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 43, 8
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1

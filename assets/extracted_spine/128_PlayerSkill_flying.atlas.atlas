@@ -1,0 +1,41 @@
+
+128_PlayerSkill_flying.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 225
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 77, 123
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+Loaf
+  rotate: false
+  xy: 1, 38
+  size: 87, 185
+  orig: 87, 185
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 72, 156
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: 180
+  xy: 12, 3
+  size: 70, 49
+  orig: 73, 52
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,124 @@
+monster_potal.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 169, 283
+  size: 157, 211
+  orig: 157, 211
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 1, 151
+  size: 122, 165
+  orig: 122, 165
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 339, 70
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 288, 91
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 1, 4
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 328, 283
+  size: 157, 211
+  orig: 157, 211
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 339, 160
+  size: 122, 165
+  orig: 122, 165
+  offset: 0, 0
+  index: -1
+2_3
+  rotate: true
+  xy: 167, 66
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+2_4
+  rotate: true
+  xy: 147, 18
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+2_5
+  rotate: true
+  xy: 74, 4
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 1, 274
+  size: 166, 221
+  orig: 166, 221
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 169, 157
+  size: 125, 168
+  orig: 125, 168
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: true
+  xy: 1, 60
+  size: 88, 118
+  orig: 88, 118
+  offset: 0, 0
+  index: -1
+3_4
+  rotate: true
+  xy: 288, 3
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+3_a
+  rotate: false
+  xy: 143, 86
+  size: 6, 62
+  orig: 6, 62
+  offset: 0, 0
+  index: -1
+3_b
+  rotate: false
+  xy: 487, 404
+  size: 13, 92
+  orig: 13, 104
+  offset: 0, 6
+  index: -1
+3_c
+  rotate: false
+  xy: 121, 127
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

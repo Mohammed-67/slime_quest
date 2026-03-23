@@ -1,0 +1,48 @@
+
+WorldMap_pig.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pig_Eye
+  rotate: true
+  xy: 2, 367
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Pig_Nose
+  rotate: true
+  xy: 75, 348
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+Pig_ad
+  rotate: false
+  xy: 2, 185
+  size: 111, 216
+  orig: 111, 216
+  offset: 0, 0
+  index: -1
+Pig_body
+  rotate: true
+  xy: 2, 2
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Pig_head
+  rotate: false
+  xy: 2, 86
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+Pig_l_hand
+  rotate: false
+  xy: 77, 299
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

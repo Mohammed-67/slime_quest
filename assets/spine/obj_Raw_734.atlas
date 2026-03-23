@@ -1,0 +1,26 @@
+igloo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_1
+  rotate: false
+  xy: 1, 151
+  size: 932, 610
+  orig: 932, 610
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: true
+  xy: 1, 1
+  size: 148, 218
+  orig: 148, 227
+  offset: 0, 9
+  index: -1
+4_3
+  rotate: true
+  xy: 221, 1
+  size: 148, 218
+  orig: 148, 227
+  offset: 0, 9
+  index: -1

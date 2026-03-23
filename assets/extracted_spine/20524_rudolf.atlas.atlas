@@ -1,0 +1,132 @@
+
+20524_rudolf.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 101, 46
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 72, 100
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 1, 128
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 85, 16
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Vehicle_Body
+  rotate: false
+  xy: 1, 233
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+Vehicle_Body_skell
+  rotate: false
+  xy: 1, 170
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+Vehicle_Eye1_skell
+  rotate: true
+  xy: 102, 170
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+Vehicle_Eye_skell
+  rotate: true
+  xy: 110, 100
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+Vehicle_Face1
+  rotate: false
+  xy: 1, 398
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+Vehicle_Face1_skell
+  rotate: false
+  xy: 1, 296
+  size: 122, 100
+  orig: 122, 100
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1
+  rotate: true
+  xy: 1, 94
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg2
+  rotate: true
+  xy: 1, 94
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1_skell
+  rotate: true
+  xy: 51, 66
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3
+  rotate: false
+  xy: 1, 44
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg4
+  rotate: false
+  xy: 1, 44
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3_skell
+  rotate: true
+  xy: 35, 32
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Vehicle_Tail
+  rotate: false
+  xy: 1, 9
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Vehicle_Tail_skell
+  rotate: true
+  xy: 32, 1
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fire_object.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire2
+  rotate: true
+  xy: 1, 1
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+Fire3
+  rotate: false
+  xy: 1, 47
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1

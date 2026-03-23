@@ -1,0 +1,83 @@
+
+castle.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 179, 68
+  size: 113, 152
+  orig: 113, 152
+  offset: 0, 0
+  index: -1
+123
+  rotate: true
+  xy: 1, 45
+  size: 175, 176
+  orig: 175, 176
+  offset: 0, 0
+  index: -1
+123123
+  rotate: false
+  xy: 206, 222
+  size: 62, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 196, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 1, 222
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 410
+  size: 276, 298
+  orig: 276, 298
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1, 1
+  size: 42, 193
+  orig: 42, 193
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 248, 34
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 248, 5
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 248, 19
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 270, 222
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1

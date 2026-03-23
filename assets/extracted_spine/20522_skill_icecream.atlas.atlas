@@ -1,0 +1,62 @@
+
+20522_skill_icecream.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 217, 297
+  size: 188, 276
+  orig: 188, 276
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 1, 1
+  size: 241, 228
+  orig: 241, 228
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 448, 54
+  size: 187, 276
+  orig: 187, 276
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 217, 575
+  size: 241, 228
+  orig: 241, 228
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 1, 531
+  size: 214, 285
+  orig: 214, 285
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 231, 1
+  size: 241, 215
+  orig: 241, 215
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: false
+  xy: 1, 244
+  size: 214, 285
+  orig: 214, 285
+  offset: 0, 0
+  index: -1
+4_2
+  rotate: true
+  xy: 407, 332
+  size: 241, 215
+  orig: 241, 215
+  offset: 0, 0
+  index: -1

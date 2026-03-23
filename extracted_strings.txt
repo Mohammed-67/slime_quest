@@ -1,0 +1,1817 @@
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!?J+
+#=33
+$BffnB
+%iA>
+&?tHM?
+'?M0^?
+(20294)
+(c) 2015-2020
+(optional)
+({0}/{1})
+*</size></b></color>
+*?04
++10
++A-3{
++A0\o@
++Aff
++Atf
++{0}
++{0}%
+-20%
+.notdef
+0.000
+00002_Item_Chicken_Atlas
+00002_Item_Chicken_SkeletonData
+00:00
+01 Human
+02 Dwarf
+03 Lycan
+04 Undead
+0\o@
+0\o@)\
+0\o@C
+1) 1
+1) 2
+1,200
+1. Brave Kingdom
+1.1.0
+10,200
+10000
+10000_slime_Atlas
+10000_slime_SkeletonData
+10000_slime_skill1_Atlas
+10000_slime_skill1_SkeletonData
+10000_slime_skill2_Atlas
+10000_slime_skill2_SkeletonData
+10002
+10002_slime_Atlas
+10002_slime_SkeletonData
+10002_slime_skill_hydra_Atlas
+10002_slime_skill_hydra_SkeletonData
+10003
+10003_slime_Atlas
+10003_slime_SkeletonData
+10003_slime_skill_cloud_Atlas
+10003_slime_skill_cloud_SkeletonData
+10003_slime_skill_electric_shock_Atlas
+10003_slime_skill_electric_shock_SkeletonData
+10004
+10004_skill_Atlas
+10004_skill_SkeletonData
+10004_slime_Atlas
+10004_slime_SkeletonData
+10005
+10005_skill1_Atlas
+10005_skill1_SkeletonData
+10005_skill2_Atlas
+10005_skill2_SkeletonData
+10005_slime_Atlas
+10005_slime_SkeletonData
+12312312312
+1234567890
+128_PlayerSkill_flying_Atlas
+128_PlayerSkill_flying_SkeletonData
+12:33
+135_PlayerSkill_ReaperSlime_Atlas
+135_PlayerSkill_ReaperSlime_SkeletonData
+150 + (20)
+17ms (60FPS)
+1A Env Group/Opening Event
+1b5323fe70159664a98ef54bf97112c7
+1chapter/boss1
+1f601
+1f603
+1f604
+1f605
+1f606
+1f609
+1f60b
+1f60d
+1f60e
+1f618
+1f923
+2) 1
+2) 2
+200%
+20000_chicken_Atlas
+20000_chicken_SkeletonData
+200_slime_bomb_Atlas
+200_slime_bomb_SkeletonData
+20100_human_Atlas
+20100_human_SkeletonData
+20101_human_Atlas
+20101_human_SkeletonData
+20102_human_Atlas
+20102_human_SkeletonData
+20103_human_Atlas
+20103_human_SkeletonData
+20104_human_Atlas
+20104_human_SkeletonData
+20110_human_Atlas
+20110_human_SkeletonData
+20111_human_Atlas
+20111_human_SkeletonData
+20120_human_Atlas
+20120_human_SkeletonData
+20121_frog_Atlas
+20121_frog_SkeletonData
+20121_human_Atlas
+20121_human_SkeletonData
+20122_human_Atlas
+20122_human_SkeletonData
+20122_star_Atlas
+20122_star_SkeletonData
+20130_human_Atlas
+20130_human_SkeletonData
+20180_human_Atlas
+20180_human_SkeletonData
+20181_human_Atlas
+20181_human_SkeletonData
+20190_human_Boss_Atlas
+20190_human_Boss_SkeletonData
+20191_human_Atlas
+20191_human_SkeletonData
+20192_human_Boss_Atlas
+20192_human_Boss_SkeletonData
+20193_human_Boss_Atlas
+20193_human_Boss_SkeletonData
+20193_human_Boss_carrot_Atlas
+20193_human_Boss_carrot_SkeletonData
+20194_breath_Atlas
+20194_breath_SkeletonData
+20194_human_Boss_Atlas
+20194_human_Boss_SkeletonData
+20194_mini_lion_Atlas
+20194_mini_lion_SkeletonData
+201_goblin_legion_Atlas
+201_goblin_legion_SkeletonData
+201_goblin_legion_potal_Atlas
+201_goblin_legion_potal_SkeletonData
+20200_dwarf_Atlas
+20200_dwarf_SkeletonData
+20201_dwarf_Atlas
+20201_dwarf_SkeletonData
+20202_dwarf_Atlas
+20202_dwarf_SkeletonData
+20203_dwarf_Atlas
+20203_dwarf_SkeletonData
+20204_dwarf_Atlas
+20204_dwarf_SkeletonData
+20210_dwarf_Atlas
+20210_dwarf_SkeletonData
+20211_dwarf_Atlas
+20211_dwarf_SkeletonData
+20220_dwarf_Atlas
+20220_dwarf_SkeletonData
+20220_dwarf_totem_Atlas
+20220_dwarf_totem_SkeletonData
+20221_dwarf_Atlas
+20221_dwarf_SkeletonData
+20222_dwarf_Atlas
+20222_dwarf_SkeletonData
+20222_dwarf_boar_Atlas
+20222_dwarf_boar_SkeletonData
+20230_dwarf_Atlas
+20230_dwarf_SkeletonData
+20280_dwarf_Atlas
+20280_dwarf_SkeletonData
+20281_dwarf_Atlas
+20281_dwarf_SkeletonData
+20290_dwarf_Atlas
+20290_dwarf_SkeletonData
+20291_dwarf_Atlas
+20291_dwarf_SkeletonData
+20292_dwarf_Atlas
+20292_dwarf_SkeletonData
+20293_dwarf_Atlas
+20293_dwarf_SkeletonData
+20293_dwarf_turret_Atlas
+20293_dwarf_turret_SkeletonData
+20294_dwarf2_Atlas
+20294_dwarf2_SkeletonData
+20294_dwarf_Atlas
+20294_dwarf_SkeletonData
+203_HorrorSlime_Atlas
+203_HorrorSlime_SkeletonData
+203_HorrorSlime_center_effect_Atlas
+203_HorrorSlime_center_effect_SkeletonData
+203_HorrorSlime_side_effect_Atlas
+203_HorrorSlime_side_effect_SkeletonData
+20400_lycan_Atlas
+20400_lycan_SkeletonData
+20401
+20401_lycan_Atlas
+20401_lycan_SkeletonData
+20402_lycan_Atlas
+20402_lycan_SkeletonData
+20403_lycan_Atlas
+20403_lycan_SkeletonData
+20404_lycan_Atlas
+20404_lycan_SkeletonData
+20405_lycan_Atlas
+20405_lycan_SkeletonData
+20406_lycan_Atlas
+20406_lycan_SkeletonData
+20407_lycan_Atlas
+20407_lycan_SkeletonData
+20408_lycan_Atlas
+20408_lycan_SkeletonData
+20409_dogbird_Atlas
+20409_dogbird_SkeletonData
+20410_lycan_Atlas
+20410_lycan_SkeletonData
+20411_lycan_Atlas
+20411_lycan_SkeletonData
+20420_lycan_Atlas
+20420_lycan_SkeletonData
+20421_lycan_Atlas
+20421_lycan_SkeletonData
+20422_kerberos_Atlas
+20422_kerberos_SkeletonData
+20480_lycan_Atlas
+20480_lycan_SkeletonData
+20481_lycan_Atlas
+20481_lycan_SkeletonData
+20500_undead_Atlas
+20500_undead_SkeletonData
+20501_undead_Atlas
+20501_undead_SkeletonData
+20502_undead_Atlas
+20502_undead_SkeletonData
+20503_undead_Atlas
+20503_undead_SkeletonData
+20504_undead_Atlas
+20504_undead_SkeletonData
+20505_undead_Atlas
+20505_undead_SkeletonData
+20506_skill_Atlas
+20506_skill_SkeletonData
+20506_undead_Atlas
+20506_undead_SkeletonData
+20507_undead_Atlas
+20507_undead_SkeletonData
+20508_undead_Atlas
+20508_undead_SkeletonData
+20509_undead_Atlas
+20509_undead_SkeletonData
+20510_undead_Atlas
+20510_undead_SkeletonData
+20511_undead_Atlas
+20511_undead_SkeletonData
+20520_Fish_Atlas
+20520_Fish_SkeletonData
+20520_penguin_Atlas
+20520_penguin_SkeletonData
+20520_undead_Atlas
+20520_undead_SkeletonData
+20522/base scale/20522/fx_trail_Rainbow
+20522_icecream_effect_Atlas
+20522_icecream_effect_SkeletonData
+20522_skill_icecream_Atlas
+20522_skill_icecream_SkeletonData
+20522_undead_Atlas
+20522_undead_SkeletonData
+20524_gift_Atlas
+20524_gift_SkeletonData
+20524_rudolf_Atlas
+20524_rudolf_SkeletonData
+20524_undead_Atlas
+20524_undead_SkeletonData
+20580_undead_Atlas
+20580_undead_SkeletonData
+20581_undead_Atlas
+20581_undead_SkeletonData
+2639
+263a
+26f88e4fa85c92b479ca9f26a08f5eba
+29200_badbird_Atlas
+29200_badbird_SkeletonData
+3,500
+32 - 126, 160, 8203, 8230, 9633
+333>
+333?
+333? 333?
+333?ff
+333@
+333B
+33KA
+33c@
+33ms (30FPS)
+33s?
+33s?33s?
+33s?33s?33
+33s?33s?fff?fff?
+33s?ff
+33sA
+35/300
+382367336
+4,500
+40100_bird_Atlas
+40100_bird_SkeletonData
+4Cq=j?
+4px?
+5,000
+50/20
+500
+50000_human_Fountain_Atlas
+50000_human_Fountain_SkeletonData
+50000_humancastle_1_Atlas
+50000_humancastle_1_SkeletonData
+50000_humancastle_2_1_Atlas
+50000_humancastle_2_1_SkeletonData
+50001_dwarf_Machine_Atlas
+50001_dwarf_Machine_SkeletonData
+50001_dwarf_Mine_Atlas
+50001_dwarf_Mine_SkeletonData
+50001_dwarfcastle_1_Atlas
+50001_dwarfcastle_1_SkeletonData
+50001_dwarfcastle_2_Atlas
+50001_dwarfcastle_2_SkeletonData
+50002_lycancastle_Atlas
+50002_lycancastle_SkeletonData
+51,500
+59000_public_portal_Atlas
+59000_public_portal_SkeletonData
+65765
+76597
+7?l;
+8200-9900,32-126
+88.0%
+8?1x
+99.99%
+9A23
+9A333@
+9A63
+9Ap=
+9At=
+9Av=
+;c?0
+< 0 >
+</color>
+</color></b>
+</color></size>
+</i></size></width></margin>
+</size></b></align>
+</size></b></color>
+</u></color></link>
+<333?
+<color=#1ef246>Lv.{1}</color>
+<color=#43A5D6>[17612]</color> [17601]
+<color=#43A5D6>[17612]</color> [17614]
+<color=#43A5D6>{0}</color> <color=#FF9D34><size=28>{1}</size></color>
+<color=#72EFFF>[17612]</color> [17601]
+<color=#72EFFF>[17612]</color> [17614]
+<color=#72EFFF>{0}</color> <color=#FAEC5B><size=28>{1}</size></color>
+<color=#80A0FF><b>
+<color=#9DF75C>+5%</color>
+<color=#BCBCBC>Device Model:</color>        Intel(R) )
+<color=#BCBCBC>Device Name:</color>         PWNHAMMER
+<color=#BCBCBC>Device Type:</color>         Desktop
+<color=#BCBCBC>Operating System:</color>    Windows 8.1
+<color=#BCBCBC>Sys Memory Size:</color>     15.951 GB
+<color=#E59A2E>[17611]</color>
+<color=#E59A2E>[620000]</color>
+<color=#E59A2E>[620002]</color>
+<color=#E79950>NPC</color>
+<color=#E79950>{0}</color>
+<color=#EDC937>{0}<size=85%><space=0.2em>/<space=0.05em>{1}</color></size>
+<color=#FB2F2F>{0}</color><size=85%><size=50%> </size>/<size=30%> </size>{1}</size>
+<color=#FFCC43>[17611]</color>
+<color=#FFCC43>[620000]</color>
+<color=#FFCC43>[620002]</color>
+<color=#FFFFFF>--</color>MB
+<color=#FFFFFF>15</color>MB
+<color=#ff40FF><size=125%>
+<color=#ffff40>
+<color=green>+</color>{0}
+<color=green>+</color>{0}%
+<color=yellow>[10013]</color>
+<color={2}>[{1}]</color>
+<i><size=75%><margin=10%>
+<none>
+<size=1.17em><b><#FF8040>
+<size=1.5em><b><#4080FF>
+<size=125%><b><align=center>
+<size=166%>{0}%</size>
+<size=20>{0} {1}</size>
+<size=2em><b><#40ff80>*
+<size=55%>[100106]</size>
+<size=55>{0}</size>
+<size=80%>X</size>{0}
+<u><#40a0ff><link="ID_01">
+=&8>Y
+=^@o>
+=d='>d='>
+>333?
+>@`GAtf
+>AuR?2
+>`2D>
+>blq>
+>ff&?
+>fff?
+>lm(?
+>n6@?K
+? 333?
+?333?
+?33k
+?33s?33s?
+?4px?
+?<<<?<<<?<<<?
+?=6A
+?@`GA
+?Bhy?:
+?F*r?
+?K4??
+?Xeh==
+?c;I?
+?fff?
+?fff?fff?
+?fff?fff?fff?
+?nNq?,
+?o=UAv=
+?rhf
+?tHM?tHM?tHM?
+?~2c?
+@ 333?
+@-3{
+@0\o@
+@0\o@Kb
+@333@
+@@`GA
+@A33
+@BffnB
+@`GA
+@`GA-3{
+@`GAG
+@`GAP
+@`GAn
+@fff?33
+@o=UA
+@o=UAt=
+@rhf
+A-3{
+A0\o@
+A333?
+A@`GA
+A@`GAff
+About
+Action Test
+ActivateRefreshEveryFrame
+Actor Hit Vibration
+Alchemist of forksaaaaaaa
+Angel_Slime_Atlas
+Angel_Slime_SkeletonData
+Ao=UA
+AppLovinSettings
+Area Group/Air Area
+Area Group/Bound Area
+Area Group/Ground Area
+ArenaEnergyIndicator, Assembly-CSharp
+ArenaGameManager Config
+ArenaMode Panel
+ArenaMode Panel/Group/ArenaSelectSlimeButtonGroup/SelectSlimeButton1
+ArenaMode Panel/Group/Play Button Group/AutoGroupButton
+ArenaMode Panel/SafeArea/Side Group/(Tutorial) Enemy View Pointing
+ArenaMode Panel/SafeArea/Side Group/Reward View Group
+ArenaModeEntracePanel, Assembly-CSharp
+ArenaModePanel, Assembly-CSharp
+ArenaSelectSlimeButton, Assembly-CSharp
+ArenaSkillSelectController, Assembly-CSharp
+Arhf
+Artifact Select Controller
+Assembly-CSharp
+Assembly-CSharp-firstpass
+Attack Button
+AttackIn
+AttackOut
+AudioBGM
+AudioVolume_50%
+AudioVolume_75%
+BEST
+BOSS
+BOSS NAME
+BitField
+Body
+Bold8
+Boldb
+Boss Introduction
+Boss Name
+BossCinematic
+BuffIndicator, Assembly-CSharp
+Bug reports will be sent to the developer with <b>anonymous</b> debug information attached. A <b>screenshot</b> of the game will be also be sent with your bug report.
+BugReporter
+Building Detail/Close Button
+Building Detail/LevelUp Button
+Button
+Button In out Preset
+Button In out Preset (tween little)
+Button_Background
+Bypass
+C*?d
+CANCEL
+CHAPTER {0}
+CLEAR!
+Cancel
+Canvas (Environment)/Character Tab/[CharacterInfoPanel]/DefaultCanvasGroup/[SafeArea]/Button Group/Break Button
+Canvas (Environment)/Character Tab/[EquipmentPanel]
+Canvas (Environment)/Character Tab/[Top Group]/SafeArea/Back button
+CellTabBarPopupLiveOps, Assembly-CSharp
+Cff~A
+Chapter Select Outline Color
+ChapterSelectCharactorChangeButton, Assembly-CSharp
+Character Info/Stat Diff Text
+CharacterControlPanel
+CharacterLevelEffectPanel/Root Group/Confirm Button
+CharacterLevelUpPopup, Assembly-CSharp
+CharacterPanel
+CharacterStatDetailGroup
+Clean
+Clear
+ClearButtonPressed
+Click
+Close
+Close & Ignore
+CloseAndDestroy
+ClosePopup
+Coffee.SoftMaskForUGUI
+Coffee.SoftMaskForUGUI.Editor
+Coffee.UIParticle
+Coffee.UIParticle.Editor
+Coffee.UnmaskForUGUI
+Coffee.UnmaskForUGUI.Editor
+Collections
+Collections.CollectionDetail, Assembly-CSharp
+Color
+Color Gradient Presets/
+Common
+Common UI
+Common.PopupWebViewHandler, Assembly-CSharp
+Console
+ConsoleProDebug
+ConsoleProRemote
+Console_Count
+Console_Count_Text
+Console_Entry_BG
+Console_Entry_Message
+Console_Entry_Stack
+Console_Error_Blob
+Console_Info_Blob
+Console_Warning_Blob
+Content_Background
+Content_Background_Transparent
+Content_Block_Background
+Content_Block_Header
+Content_Block_Text
+Content_Border
+Copied to clipboard
+CopyToClipboard
+CrossPromotionButton, Assembly-CSharp
+Current usage is not supported for this build.
+DAY {0}
+DOTweenSettings
+DebugGetPiece
+Deco Push In out Preset
+Default
+Default Package Title
+Default Style Sheet
+DefaultConsoleAltRow
+DefaultConsoleSelectedRow
+DefaultTabActive
+Delete
+DescBoxClose
+Describe the bug, including what you were doing when it happened.
+Description
+Developed by Stompy Robot LTD
+Disabled
+E6>9
+E9AB08
+E?"5
+E?Yf
+ES3Defaults
+Email Address
+EmojiOne
+Enable
+Enable Logging
+Enum
+Equipment Detail Popup
+Equipment Detail Popup/EquipmentInfoView/Potential View Window Holder/Potential View Window/Background/box_popup1_bot/OptionChangeButton
+Equipment Detail Popup/Info/Buttons/Equip Button
+Equipment Detail Popup/popup/Bottom Buttons/Need Scroll Info
+EquipmentDissolutionBox, Assembly-CSharp
+EquipmentPanel, Assembly-CSharp
+Equipments
+Error submitting bug report (Server returned <b>401 - NotAuthorized</b>)
+Exit
+F?:C7?
+FILTER
+FPS: 45.33
+Face with tears of joy
+Febucci.TextAnimator.Editor
+Febucci.TextAnimator.Runtime
+Floating UI Element
+Floating UI Element (UpDown)
+Floating UI Element (big)
+Floating UI Element (little)
+Floating UI Element (very-little)
+Focus
+Foldout
+Fonts & Materials/
+For more information please see the FAQ @ stompyrobot.uk
+Fusion Support Pack Lv.2
+Fx_dwarf_skill_Atlas
+Fx_dwarf_skill_SkeletonData
+Fx_explosion_Atlas
+Fx_explosion_SkeletonData
+Fx_resurrection_Atlas
+Fx_resurrection_SkeletonData
+G)@)\
+G)@@`GA0\o@@`GAV
+G)@C
+G)@Kb
+GC Collect
+Gacha Exit Button
+Gacha_background_Atlas
+Gacha_background_SkeletonData
+Gacha_bottom_Atlas
+Gacha_bottom_SkeletonData
+Gacha_light_Atlas
+Gacha_light_SkeletonData
+Gacha_mimic_Atlas
+Gacha_mimic_SkeletonData
+Gacha_unlock_Atlas
+Gacha_unlock_SkeletonData
+Game Env/Boss Generator
+Game Mode Entrance Tab/Main Area/ScrollRect/Content/GameModeEntranceElement (3)
+Game Mode Tab
+Game Start Button
+Game/UI Canvas/SafeArea/BlockingIndicator
+Game/UI Canvas/SafeArea/BlockingIndicator/Body/Boundary/Cursor
+GameRaid.RaidPauseScreen, Assembly-CSharp
+GameSkin
+Gear Spin
+GearSpinCurve
+Giving a scary stare to its opponent...
+GlobalSerializationConfig
+GoToLobby
+GoToNext
+GoToPrevious
+GoldMine Stone Hit Vibration
+Grinning face
+H=)\
+H?<<<?<<<?<<<?
+HM0?S
+Heap Size: <color=#FFFFFF>--</color>MB
+Heap Size: <color=#FFFFFF>30</color>MB
+Heartbeat
+HelpBook
+Here Is The Value
+Hide
+HideScrollBar
+Highlighted
+Horizontal
+Horizontal Move Loop (sine)
+Housing
+Housing/Castle
+Housing/GoldMine
+Housing/Inn
+Housing/Steelworks
+Housing/Temple
+ID : {0}
+ID: {0}
+Icon_BugReport
+Icon_Castle
+Icon_Castle_Min
+Icon_Close
+Icon_Console
+Icon_Copy
+Icon_Filter
+Icon_GoldMine
+Icon_GoldMine_Min
+Icon_Inn
+Icon_Inn_Min
+Icon_Logo
+Icon_Menu
+Icon_Menu_Small
+Icon_Options
+Icon_Pin
+Icon_Profiler
+Icon_Refresh
+Icon_ScrollToBottom
+Icon_Steelworks
+Icon_Steelworks_Min
+Icon_Stompy
+Icon_System
+Icon_Temple
+Icon_Temple_Min
+Icon_ToggleDropdown
+Icon_Trash
+Icon_Trash_Small
+Icons provided by Icons8
+InGame Outline Color
+InGames.Results.GameResultController, Assembly-CSharp
+InOutTweenCurve Loop
+Input Controller
+Inventory
+Inventory Scroll Content
+Jelly Loop
+Jelly Loop (little)
+Jump
+Jump Button
+Jump Curve (default)
+King Dwarf Jump Shake
+King Dwarf Jump Shake (big)
+L>33
+L>333?
+L>ff
+L?:qM?{
+LCSDK.Editor(
+LCSDK.Runtime
+LEVEL UP!
+LOADCOMPLETE / 8BIT GAMES
+LV. {0}
+LV.5
+LV10
+Lazy Curve
+LeTai.TrueShadow
+LeTai.TrueShadow.Editor
+LeanCommon
+LeanPool
+Leaving an email address is optional, but will allow the developer to contact you for additional information if required.
+Left Button
+Liberation Sans
+LiberationSans SDF (fallback)
+Link
+LiveOpsLuckyDipBox, Assembly-CSharp
+LoadComplete.Audio.Manager
+LoadComplete.Core
+LoadComplete.LocalDB
+LoadComplete.UI.Helper
+Lobby Controller
+Lobby Focused Group
+Lobby Main Tab
+Lobby Main Tab/SafeArea/Daily Reward Button
+Lobby Main Tab/SafeArea/Focused Group/Top Right Horizontal/Mail Button
+Lobby Main Tab/SafeArea/Focused Group/Top Second Right Horizontal/LobbySlimeClubButton
+Lobby Main Tab/SafeArea/Focused Group/Top-Left/Guide Quest
+Lobby.Equipments.EquipmentPotentialController, Assembly-CSharp
+Lobby.Shop.LobbyShopProductView, Assembly-CSharp
+Lobby.Shop.PackageShop.PackagePopup, Assembly-CSharp
+Lobby.Shop.PackageShop.PackageShopPopup, Assembly-CSharp
+Lobby.ShopController, Assembly-CSharp
+Lobby/Menu Flag Controller
+LobbyButtonLiveOps, Assembly-CSharp
+LobbyButtonRainbowSlime, Assembly-CSharp
+LobbyButtonSlimePass, Assembly-CSharp
+LobbyNewTabButtonPanel
+LobbySlimeClubButton, Assembly-CSharp
+LobbyTabBase, Assembly-CSharp
+LobbyTabMain, Assembly-CSharp
+LobbyUI
+Localize Font Asset Info
+LogHandlerHasBeenOverridenOkayButtonPress
+Logging is currently disabled. New log messages will not appear in SRDebugger unless logging is re-enabled.
+LoggingDisableCloseAndIgnorePressed
+LoggingDisableReenablePressed
+Lucky Dip
+Lv 15
+Lv {0}
+Lv {0}<color=#979797><size=25>{1}</size></color>
+Lv {0}<size=22> / {1}</size>
+Lv. {0}
+Lv.{0}
+Lv.{0} / {1}
+Lv.{0} {1}
+Lv.{0}/{1}
+MailBox
+MailButton, Assembly-CSharp
+Maplestory
+Maplestory Bold SDF Outline
+Mastery System Panel
+Mastery System Tab/SafeArea/Back button
+Material Group/Rewards View Middle Point
+Max Level
+MaxSdk.Scripts
+MaxSdk.Scripts.IntegrationManager.Editor
+Memory Usage
+MenuButtonPressed
+Message text
+Mini Roulette Icon
+Modal_BackgroundFade
+Modal_BackgroundFadeB
+Mono Memory Usage
+MonsterPortraits
+MoveDefaultTab
+MoveLeft
+MoveRight
+MoveToCharacterPanel
+MoveToEquipmentPanel
+NORMAL
+NPC/rich
+NPC/spider
+NPC_Gargoyle_Atlas
+NPC_Gargoyle_SkeletonData
+NPC_Goblin_Atlas
+NPC_Goblin_SkeletonData
+NPC_Rich_Atlas
+NPC_Rich_SkeletonData
+NPC_Spider_Atlas
+NPC_Spider_SkeletonData
+NPC_devil_Atlas
+NPC_devil_SkeletonData
+New Text
+No New Mail!
+No options found in SROptions.
+Normal
+OnAction
+OnBeginDrag
+OnClaimButtonClick
+OnClick
+OnClickAccountConnect
+OnClickAnimationSkipToggle
+OnClickAnywhere
+OnClickAutoGrouping
+OnClickBackward
+OnClickBoostItemDetailInfo
+OnClickBreak
+OnClickBuyPass
+OnClickCharacterSelectPanel
+OnClickClaim
+OnClickClaimAll
+OnClickClearReadMail
+OnClickClose
+OnClickCloseButton
+OnClickConfirm
+OnClickConfirmButton
+OnClickControlCustomize
+OnClickControlDefault
+OnClickCrossPromotion
+OnClickDeleteAccount
+OnClickDetailButton
+OnClickDetailInfo
+OnClickDetailStatButton
+OnClickDissolution
+OnClickFocusReward
+OnClickForward
+OnClickFusion
+OnClickGachaTicketGuide
+OnClickGuide
+OnClickHardModeToggle
+OnClickHelpGuide
+OnClickHome
+OnClickIcon
+OnClickInfoButton
+OnClickLanguage
+OnClickLockButton
+OnClickMoveNext
+OnClickMovePrev
+OnClickNotification
+OnClickOutSide
+OnClickPassLevelUp
+OnClickPotentialInfoButton
+OnClickPreviewArea
+OnClickPromotion
+OnClickQna
+OnClickQuestionBox
+OnClickReset
+OnClickSkipButton
+OnClickSortButton
+OnDecrement
+OnDragEnd
+OnDragStart
+OnEndDrag
+OnIncrement
+OnScrollEnd
+OnScrollbarClicked
+One Two Three()
+Open
+OpenPackageShop
+OpenPopup
+Option Label
+Options
+Options_Category_Header
+Options_Item_Background
+Options_Item_Button
+Options_Name
+Options_SelectionToggle
+Options_SelectionToggleBackground
+Other
+PLAY
+PPv2URPConverters
+PQRS
+Package Pack
+Panel Title
+PinEntry_CancelButton
+PinEntry_Dot_Fill
+PinEntry_Dot_Ring
+PinEntry_Number_Button
+PinEntry_Number_Ring
+PinEntry_Number_Ring_Fill
+Pinned_Profiler_BG
+PitchRandomizer
+PitchRandomizer 2
+PitchVariator
+PitchVariator (short expire)
+Pj?6
+PlayUnique
+Popup In out Preset (inverse)
+PopupBlessing, Assembly-CSharp
+PopupBuySlimeClub, Assembly-CSharp
+PopupCrossPromotion, Assembly-CSharp
+PopupGachaBuy, Assembly-CSharp
+PopupLiveops, Assembly-CSharp
+PopupRaidEnergyCharge, Assembly-CSharp
+PopupRepeatAttendance, Assembly-CSharp
+PopupRewardWithMessage, Assembly-CSharp
+PopupSmithyEffect, Assembly-CSharp
+PostProcessData
+Powered by SR<B>Debugger</B>
+PreprocessInfo
+Pressed
+Profiler
+Profiler_Axis_Background
+Profiler_Axis_Text
+Profiler_Memory_BG
+Profiler_Memory_FG
+Prompt Text Here
+PsdPlugin
+QL@8
+QL@U
+QL@X9
+QL@h
+QL@o=UA63
+QL@rhf
+QWERTYUIOPASDFGHJKLZXCVBNM
+Quick Curve
+Quick Vibration
+Quote
+Qx?X9
+RESULT
+RaidBoss Hit Vibration
+RaidMode Panel
+RaidMode Panel/MenuGroup/Enter Button Place/Start Button
+Refresh
+RefreshButtonSpin (-180)
+RefreshButtonSpin (-360)
+RefreshButtonSpinCurve
+Regular
+Render
+Report Bug
+Reset
+ResetDebugManager
+ResetFocus
+Revenge
+Revive Effect
+RewardEffect Base Curve
+RewardEffect Spread Curve
+RewardViewGlowFxWrapper, Assembly-CSharp
+Rewards Grid Vibration
+Right Button
+RotateCurve Loop
+Roulette Spin Curve
+SDKRuntimeInfo
+SEND BUG REPORT
+SENDING...
+SKIP
+SRDebugger (C) Stompy Robot LTD - Icons by Icons8 (www.icons8.com)
+SRDebugger 1.1.0
+SRDebugger {0}
+START
+SUBMIT
+SYSTEM
+SaveFile.es3
+ScrollBar
+Select options to show in-game
+SelectCharacterAddIndex
+SelectNextItem
+SelectPreviousItem
+Selected
+Settings
+Shadow Scale Curve
+Shiny Thickness Curve - Default
+Shiny Timeline Curve - Default
+Shop Button
+Shop Tab/SafeArea/Back button
+ShowAboutTab
+ShowScrollBar
+SideBar_Background
+SideBar_Tab_Background
+SideBar_Tab_Border
+SideBar_Tab_Text
+Sidebar_Border
+Sign in with Apple
+Sign in with Google
+Sine Curve
+Sine Curve 2
+Singleton Instances/Static Canvas/Dialogue Canvas
+Singleton Instances/Static Canvas/LevelUpEffectCanvas
+Singleton Instances/Static Canvas/Tip Dialogue Canvas
+Sirenix.OdinInspector.CompatibilityLayer
+Sirenix.OdinInspector.CompatibilityLayer.Editor
+Skill Icons
+Skill Select Controller
+SlimePassLevelUpPopup, Assembly-CSharp
+SlimePassRewardViewWrappper, Assembly-CSharp
+Slot0
+Slot1
+Slot2
+Slot3
+Smiling face with smiling eyes
+Snake_body
+Snake_head
+Some Enum
+Some Header
+Some Property
+Some Value
+Special Symbol
+Sprite Assets/
+Stack Trace Message
+Stack Trace Stack Goes Here ()
+StompyRobot.SRDebugger
+StompyRobot.SRDebugger.Editor
+StompyRobot.SRF
+StompyRobot.SRF.Editor
+Submit
+Sy?%
+System
+System Information
+SystemInformation
+TAB HEADER TEXT
+TEST
+TESTTEST
+TMP Settings
+Tab_Background
+Tab_Header_Background
+Tab_Header_Button
+Tab_Header_Text
+Tab_Header_Toggle_Selected
+Test
+Test Console Log Message
+Test Text Header
+Text
+Text_Dim
+Text_Input
+Text_Light
+The default Unity log handler has been overriden. This may result in logs not appearing in the SRDebugger console view or bug reports.
+Theme-1a
+Theme-1b
+Theme-2a
+Theme-2b
+Theme-3a7
+Theme-3b
+Theme-4a
+Theme-4b
+TimeOut
+Title
+Toggle Test
+ToggleDropdownVisible
+ToggleProfiler
+Toggle_BG_Active
+TogglesUpdated
+Transition Cover Screen
+Trigger
+TriggerCleanup
+TriggerCollection
+True Shadow Project Settings
+True Shadow Project Settings Default
+TryClose
+TryOpen
+TryOpenCharacterPanel
+TryOpenEquipmentPanel
+Tutorial Gacha Ad Icon
+Tutorial Recommend Skill Button
+Tutorial Skill Claim Button
+UCffJBffv
+UI Canvas/CharacterControlPanel/Levelup Button
+UI Canvas/Hard Mode Toggle Image
+UI Canvas/Lobby Tab Controller
+UI Canvas/Lobby Tab Controller/Equipment Tab
+UI Canvas/Lobby Tab Controller/Equipment Tab/Artisan Panel/Button Group/Dissolution Button
+UI Canvas/Lobby Tab Controller/Game Mode Entrance Tab/Main Area/ScrollRect/Content/GameModeEntranceElement (2)
+UI Canvas/Lobby Tab Controller/Lobby Main Tab/SafeArea/Play Button
+UI Canvas/Lobby Tab Controller/Lobby Main Tab/SafeArea/Right Layout Group/Mastery Button
+UI Canvas/Lobby Tab Controller/Lobby Main Tab/SafeArea/Right Layout Group/Mode Button
+UI Canvas/Mastery System Panel/SafeArea/Levelup Button
+UI Canvas/Side Menu Canvas/SafeArea/Button Layout Group/Character Button
+UI Canvas/Top Button Canvas/SafeArea/Button Layout Group/Equipment Button
+UI Canvas/Top Canvas/CharacterLevelEffectPanel
+UI Canvas/Top Canvas/CharacterLevelUpPopup
+UI Canvas/Top Canvas/CharacterLevelUpPopup/Box/Button Group/LevelUp Button
+UI Canvas/Top Canvas/Equipment Detail Popup/popup/Bottom Buttons/Levelup Button
+UI Canvas/Top Canvas/Equipment Detail Popup/popup/Equipment Info View/description box/Description Group/Grade Info View
+UI Canvas/Top Canvas/Equipment Detail Popup/popup/Equipment Info View/description box/Description Group/Grade Info View/Button Group/Change Button Group/Change Button
+UI Canvas/Top Canvas/RaidMode Panel/BossInfoGroup
+UI Canvas/Top Canvas/RaidMode Panel/BossInfoGroup/RewardInfoButton
+UI Canvas/Top Canvas/RaidMode Panel/MenuGroup/ItemList
+UI Canvas/Top Canvas/Shop Tab
+UI Canvas/Total Result/Grid Layout
+UI Canvas/[Lobby Tabs]/Lobby Main Tab/SafeArea/Focused Group/Top Right Horizontal/Config Button
+UI.Popups.Implements.PopupArenaEnergyCharge, Assembly-CSharp
+UI.Popups.Implements.PopupBoostItemInfo, Assembly-CSharp
+UI.Popups.Implements.PopupBuySlimePass, Assembly-CSharp
+UI.Popups.Implements.PopupConfig, Assembly-CSharp
+UI.Popups.Implements.PopupMailBox, Assembly-CSharp
+UI.Popups.Implements.PopupSlimePass, Assembly-CSharp
+UI.Popups.Implements.PopupSlimePassIntro, Assembly-CSharp
+UI.Popups.Implements.PopupSlimePieceSelector, Assembly-CSharp
+UI.UIPanel, Assembly-CSharp
+UI/Pause Button
+UIEffect
+UIStamp Vibration
+Unity profiler is currently <b>disabled</b>. Enable to show more information.
+UnityEngine.Object, UnityEngine
+UnityEngine.Rendering.DebugUI+BitField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+BoolField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Button, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+ColorField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Container, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+EnumField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+FloatField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Foldout, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+HBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+HistoryBoolField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+HistoryEnumField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+IntField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+MessageBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+ObjectField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+ObjectListField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+ObjectPopupField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+ProgressBarValue, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Table+Row, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Table, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+UIntField, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+VBox, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Value, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+ValueTuple, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Vector2Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Vector3Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.DebugUI+Vector4Field, Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+UnityEngine.Rendering.UI.DebugUIHandlerButton, Unity.RenderPipelines.Core.Runtime
+UnityEngine.Rendering.UI.DebugUIHandlerIntField, Unity.RenderPipelines.Core.Runtime
+UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField, Unity.RenderPipelines.Core.Runtime
+UnityEngine.Rendering.UI.DebugUIHandlerPanel, Unity.RenderPipelines.Core.Runtime
+UnityEngine.Rendering.UI.DebugUIHandlerUIntField, Unity.RenderPipelines.Core.Runtime
+UniversalRenderPipelineAsset
+UniversalRenderPipelineAsset_Renderer
+UniversalRenderPipelineGlobalSettings
+Update
+UpdateAdCoolTimeButton
+Upheaval Pro
+UpheavalPro SDF
+User Info Indicator
+Utils.Addressable
+V?N0
+Vector2
+Vector4
+Vertical
+View ReadMe for information.
+WAVE
+WAVE {0}/{1}
+WXYZ
+Warning
+Wave Indicator
+Wave Indicator/Boss Wave/Hp Bar
+Wooden Block Ninjutsu
+WorldMap_box_Atlas
+WorldMap_box_SkeletonData
+WorldMap_pig_Atlas
+WorldMap_pig_SkeletonData
+XRSystemData
+ZTLEditorAssembly
+Zd;?
+[100000]
+[10001]
+[100104]
+[100105]
+[10012]
+[10013]\n<size=18><color=yellow>[17612]</color></size>
+[10015]
+[100200]
+[100201]
+[100202]
+[100203]
+[100508]
+[100606]
+[100611]
+[100703]
+[100703]: <color=#fff25d>{0}</color>
+[100706]
+[100707]
+[100708]
+[10202]
+[10602]
+[10626]
+[10627]
+[10712]
+[11007]
+[11009]
+[11015]
+[11017]
+[11100]
+[11101]
+[11102]
+[11103]
+[11106]
+[11107]
+[11108]
+[11109]
+[11110]
+[11111]
+[11112]
+[11113]
+[11114]
+[11115]
+[11116]
+[11120]
+[11130]
+[11131]
+[11140]
+[11141]
+[11143]
+[11145]
+[11146]
+[11148]
+[11160]
+[11161]
+[11162]
+[11164]
+[11165]
+[11168]
+[11169]
+[11200]
+[12001]
+[12003]
+[12007]
+[12009]
+[12012]
+[12013]
+[12014]
+[12017]
+[12020]
+[12022]
+[12028]
+[13003]
+[13007]
+[13008] {0}
+[13009]
+[13012]
+[13019]
+[13020]
+[13022]
+[13025]
+[13026]
+[13027]
+[13028]
+[13029]
+[13030]
+[13031]
+[13035]
+[13101]
+[13109]
+[17100]
+[17607]
+[17608]
+[17609]
+[17610]
+[17612]
+[17615]
+[17616]
+[17617]
+[17619]
+[17621]
+[200607]
+[20102]
+[20103]
+[20204]
+[20305]
+[20306]
+[20307]
+[20813]
+[20814]
+[20815]
+[20816]
+[20817]
+[20818]
+[20827]
+[20828]
+[20829]
+[20842]
+[20845]
+[210000]
+[210001]
+[210003]
+[2504]
+[30007]
+[310000]
+[310001]
+[400019]
+[40001]
+[40004]
+[40006]
+[40017]
+[40021]
+[40024]
+[40026]
+[40027]
+[40028]
+[40029]
+[40030]
+[40031]
+[40032]
+[40035]
+[40036]
+[40037]
+[40040]
+[40047]
+[40048]
+[40049]
+[40054]
+[40055]
+[40056]
+[40058]
+[40060]
+[40061]
+[40062]
+[40064]
+[40065]
+[500000]
+[500001]
+[500002]
+[500003]
+[500004]
+[500005]
+[500006]
+[500007]
+[500008]
+[500010]
+[500013]
+[500014]
+[500015]
+[500016]
+[530003]
+[530005]
+[530006]
+[530007]
+[550000]
+[560000]
+[560001]
+[560002]
+[560003]
+[560004]
+[560005]
+[560006]
+[560007]
+[600002]
+[600004]
+[600005]
+[600008]
+[620004]
+[620005]
+[620006]
+[620008]
+[80200]
+[Chapter Selector]
+[Default Game Manager]
+[EquipmentPanel]/Fusion Box/Box Root/Fusion Button
+[Gacha Controller]
+[Housing Manager]
+[UI Canvas]/Encounter Events/Message Balloon Place/Message Balloon
+[UI Canvas]/New Skill Panel
+[UI Canvas]/Revive Controller
+[UI Canvas]/Revive Controller/content canvas/popup canvas group/Revive Dialog (Message)/Button Group/Price Button
+[UI Canvas]/Skill Preview Place
+[UI Canvas]/UI Base
+[UI Canvas]/UI Base/Under Indicators (Safe Area)/Top-Right/BlessBuffIndicator
+\?DjB?
+\BffnB
+_(-=
+_Click
+_End
+_OnClick
+_OnClickBack
+_OnClickBackButton
+_OnClickBackLobby
+_OnClickEquipToggleButton
+_OnClickHpButton
+_OnClickLobbyButton
+_OnClickPortal
+_OnClickScreen
+_OnClickedBlackScreen
+_OnCloseClick
+_OnFocus
+_OnPointerClick
+_SendLobbyUIEvent
+_boss
+`@ 333?
+advanced
+aku-bounce-ground
+angry
+arena
+asdf
+astrie
+astrie-attack-head
+astrie-chain-lightning
+attack
+bg_portal
+blacksmith-dismantle
+blacksmith-fuse
+blacksmith-select-item
+bomb_Atlas
+bomb_SkeletonData
+boss-intro
+boss01
+bossraid_fire_Atlas
+bossraid_fire_SkeletonData
+box1
+burrow-out
+bush
+button
+c1-archer-arrow
+c1-ddoimong-arrow
+c1-high-archer-arrow
+c1-high-magician-frog-jump
+c1-high-magician-frog-spawn
+c1-magician-star
+c1-magician-star-collide
+c1-packeve-carrot-collide
+c1-packeve-carrot-spawn
+c1-sodoseogwan-magic-spawn
+c2-boar-dash
+c2-engi-turret-attack
+c2-engi-turret-despawn
+c2-engi-turret-spawn
+c2-high-rifle-fire
+c2-king1-boomerang-loop
+c2-king1-falling
+c2-king1-roar
+c2-king1-transform
+c2-king2-big-jump-collide
+c2-king2-die
+c2-king2-stone-cast
+c2-king2-stone-collide
+c2-king2-stone-crash
+c2-king2-stone-rush
+c2-meat-dwarf-fire-magic
+c2-meat-dwarf-strike
+c2-rifle-fire
+c2-summoner-boar-explode
+c2-summoner-boar-move-out
+c2-summoner-boar-spawn
+c2-totem-despawn
+c2-totem-heal
+c2-totem-spawn
+c2-viking-boomerang-loop
+c3-boss-dog-bark
+c3-cuppy-howling
+c3-high-magonghak-potion-explode
+c3-high-magonghak-throw
+c3-kerberos-bark
+c3-kerberos-die
+c3-kerberos-dig
+c3-kerberos-house-collide
+c3-kerberos-howling
+c3-kerberos-humans-appear
+c3-kerberos-rush
+c3-kerberos-rush-collide
+c3-kerberos-toy-spawn
+c3-kerberos-transform
+c3-magonghak-potion-explode
+c3-magonghak-throw
+c3-malsunggoon-jump-trigger
+c3-pistol-fire
+c3-poppy-dig
+c3-poppy-rush
+c3-poppy-toy-spawn
+c3-sheep-rush
+c3-transform
+c3-twin-pistol-fire
+c3-wolf-howling
+cA-3{
+cA0\o@
+cAff
+cAtf
+ca-app-pub-4178306269001674~3049614870
+ca-app-pub-4178306269001674~7180431579
+castle_Atlas
+castle_SkeletonData
+castle_gate_Atlas
+castle_gate_SkeletonData
+chapter-select
+chapter-unlock-locker
+chapter-unlocked
+char-break-result
+char-break-star-print
+char-potential-unlock
+char-unlock-silhouette
+char-unlocked
+character-dash
+character-fly-sound
+charname: msgcharname: msgcharname: msgcharname: msg
+chicken
+construction_Atlas
+construction_SkeletonData
+create
+creating_loop
+crobi
+crobi-attack
+crobi-ghost
+d90da71dbb3a08e4a8d2bfa8df27fd16
+dddsssssssssssssssssss
+default
+demon-eye-attack
+description
+devil
+drop
+e3265ab4bf004d28a9537516768c1c75
+e403e0f6635d5a1479474b019847425d
+effect
+effect_skill_acheive_Atlas
+effect_skill_acheive_SkeletonData
+elite
+elite_boss_effect_Atlas
+elite_boss_effect_SkeletonData
+energy-circle-trigger-sound
+equipment-equip
+equipment-unequip
+explosion2
+ff&?
+ff&@
+ff1C
+ff>B
+fff?
+fff?fff?
+fff?fff?33s?33s?
+fff?fff?fff?
+fff?fff?fff?fff?
+ffnB\
+fire_object_Atlas
+fire_object_SkeletonData
+fish1
+fish2
+forge_Atlas
+forge_SkeletonData
+gacha-chest-droped
+gacha-chest-open
+gacha-chest-result
+gacha-door-open-1
+gacha-door-open-2
+gacha-door-open-3
+gacha-door-opening
+gamestart
+grass
+ground
+h&>G K>
+h>}Bh>}B
+hard
+hard_idle
+heal
+hill
+horizontalscrollbar
+horizontalscrollbarleftbutton
+horizontalscrollbarrightbutton
+horizontalscrollbarthumb
+horizontalslider
+horizontalsliderthumb
+horrorSlimeFx
+horse
+horseStep
+https://www.notion.so/loadcomplete/NPC-_UI-62f95ae3c8c945eb88f779b6e3a7d797
+human
+icecream-drop
+icon noti jump curve
+idle
+idle_front
+idle_rudolf_off
+igloo_Atlas
+igloo_SkeletonData
+img_monstercatalog_theme{0:00}
+img_skillcatalog_theme{0:00}
+ingame-result-item
+ingame-result-jingle
+ingame-result-open
+ingame-result-progress
+ingame-result-stamp
+inn_Atlas
+inn_SkeletonData
+item-reward
+itemBoxOpen
+itemCoinEat
+itemEat
+jump-female
+jump-male
+k?q=
+kobalos-explode-oak
+kobalos-goblin-attack
+kobalos-goblin-despawn
+kobalos-goblin-effect
+kobalus
+label
+laugh
+leftbutton
+levelup
+lobby_base_Atlas
+lobby_base_SkeletonData
+lz<,`
+mastery-jingle
+mastery-rolling
+meteor-explode
+mimic1
+mimic2
+mimic3
+mimic4
+mine_Atlas
+mine_SkeletonData
+mining
+monster-explode
+monsterDie
+monsterHit
+monster_potal_Atlas
+monster_potal_SkeletonData
+moon_Atlas
+moon_SkeletonData
+name
+nomal
+nomal_idle
+npc-novice-voice
+o=UA
+o=UA23
+o=UAp=
+o=UAv
+open
+ork_Atlas
+ork_SkeletonData
+pA23
+pA63
+pAp=
+pAt=
+pAv=
+pB33
+pBff
+package1_Atlas
+package1_SkeletonData
+package2_Atlas
+package2_SkeletonData
+password
+penguin-loop
+penguin-spawn
+personal
+pillar_Atlas
+pillar_SkeletonData
+potal_a
+potal_b
+potal_c
+potal_open
+potal_open_c_type
+propDie
+q6?k
+q=*@
+qwertyuiopasdfghjklzxcvbnm
+r@ff
+rScGf0F0GfN_H_qprzVunF7S7liTu7Rka2_F3EFKvcJBc7-R5UJslRJsB0P48roiunyy0CGvqZ5Qh4tnZBdIdx
+raid_devil_Atlas
+raid_devil_SkeletonData
+raid_indicator_fail
+raid_indicator_perfect
+raid_indicator_success
+raid_pig_Atlas
+raid_pig_SkeletonData
+revive-appear
+revive-count-tick
+revive-result-no
+revive-result-yes
+rightbutton
+rock_Atlas
+rock_SkeletonData
+root
+rotate
+roulette-result
+roulette-tick
+s>BR
+santa-gift-drop
+scrollview
+serpine
+serpine-attack
+serpine-wood-piece
+shop_idle
+size
+skell
+skill-appear
+skill-claim
+skill1
+skill_demon_spirit_Atlas
+skill_demon_spirit_SkeletonData
+skill_effect
+skill_meteor_Atlas
+skill_meteor_SkeletonData
+skill_ready
+slime-skill-level-up
+slimeBullet
+slimeBulletLightningHit
+slimeHit
+slimeJump
+slimeShot
+smithy_Atlas
+smithy_SkeletonData
+sndTitle-0-begin
+sndTitle-1-logo-appear
+sndTitle-2-game-start-triggered
+spine-unity
+spine-unity-editor
+sssssssssssssssssssssss
+ssssssssssssssssssssssssssssssssssssssssssssss
+stage1
+stage2
+stage3
+stage4
+stage5
+stage6
+start01
+statue_Atlas
+statue_SkeletonData
+sun_Atlas
+sun_SkeletonData
+text
+text placehold
+textarea
+textfield
+throw-object
+thumb
+title
+title text
+toggle
+tomb_Atlas
+tomb_SkeletonData
+transform
+tree
+trigger
+trumpet
+tuna_Atlas
+tuna_SkeletonData
+tutorial-step
+ui-back
+ui-close
+ui-forward
+ui-open
+ui-paging
+ui-pause
+ui-resume
+uiStartClick01
+uiStartClick02
+uiStartClick03
+uiStartClick04
+ui_character
+ui_inventory
+undead
+undeadcastle_Atlas
+undeadcastle_SkeletonData
+verticalscrollbar
+verticalscrollbardownbutton
+verticalscrollbarthumb
+verticalscrollbarupbutton
+verticalslider
+verticalsliderthumb
+villager/villager1
+villager/villager2
+villager/villager3
+villager/villager4
+villager/villager5
+villager/villager6
+villager/villager7
+walk
+wibble
+window
+wolf_Atlas
+wolf_SkeletonData
+www.icons8.com
+www.stompyrobot.uk
+x0`>
+x10]
+x300
+x350
+x5000
+xxX?xxX?xxX?
+xxx?xxx?xxx?
+x{0}
+y?33
+yBff>B
+{0}
+{0} <color=#ffd52d>{1}</color>
+{0} LV.{1}
+{0} [{1}]
+{0}%
+{0}/{1}
+{0}:{1}:{2}
+{0}<size=18>/{1}</size>
+{0}<size=85%>/{1}</size>
+{0}{1}
+{1} <color=#1ef246>(
+{2})</color>
+|;@23
+|;@p=
+|;@t=
+}?U?}?U?}?U?}?U?
+~!@#$%^&*()_+|-=\{}:"<>?[];',./
+~A-3{
+~A0\o@
+~Aff
+~Atf

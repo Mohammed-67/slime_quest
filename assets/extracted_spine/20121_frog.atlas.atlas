@@ -1,0 +1,69 @@
+
+20121_frog.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect2
+  rotate: false
+  xy: 168, 49
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Frog_body
+  rotate: false
+  xy: 1, 1
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+Frog_eye1
+  rotate: false
+  xy: 168, 23
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Frog_eye2
+  rotate: true
+  xy: 92, 9
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+Frog_l_arm
+  rotate: false
+  xy: 168, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Frog_l_leg
+  rotate: true
+  xy: 136, 41
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Frog_mouth
+  rotate: true
+  xy: 198, 23
+  size: 45, 7
+  orig: 45, 7
+  offset: 0, 0
+  index: -1
+Frog_r_arm
+  rotate: false
+  xy: 189, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Frog_r_leg
+  rotate: true
+  xy: 136, 3
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+20421_lycan.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 213, 28
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+Effect_1
+  rotate: true
+  xy: 962, 34
+  size: 92, 27
+  orig: 92, 27
+  offset: 0, 0
+  index: -1
+Effect_2
+  rotate: true
+  xy: 354, 15
+  size: 111, 51
+  orig: 111, 51
+  offset: 0, 0
+  index: -1
+Effect_3
+  rotate: true
+  xy: 407, 10
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 991, 73
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 827, 57
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 869, 62
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Front_Body
+  rotate: true
+  xy: 721, 64
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Front_Eye
+  rotate: true
+  xy: 991, 94
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Front_Face
+  rotate: true
+  xy: 137, 45
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+Front_L_ear
+  rotate: false
+  xy: 550, 45
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+Front_R_ear
+  rotate: false
+  xy: 550, 45
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 550, 45
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+Front_L_hand
+  rotate: true
+  xy: 816, 23
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Front_L_leg
+  rotate: false
+  xy: 779, 20
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Front_R_leg
+  rotate: false
+  xy: 779, 20
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+Front_Mouth
+  rotate: false
+  xy: 434, 117
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Front_Mouth3
+  rotate: false
+  xy: 407, 93
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Front_R_hand
+  rotate: true
+  xy: 482, 17
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Head_acc
+  rotate: false
+  xy: 869, 27
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 612, 45
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: true
+  xy: 777, 66
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 224, 10
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: true
+  xy: 280, 8
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Side_L_leg
+  rotate: false
+  xy: 531, 10
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Side_R_leg
+  rotate: false
+  xy: 575, 10
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Side_face
+  rotate: true
+  xy: 280, 45
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+Side_mouth1
+  rotate: false
+  xy: 619, 12
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+boss_2
+  rotate: false
+  xy: 1, 4
+  size: 134, 122
+  orig: 134, 122
+  offset: 0, 0
+  index: -1
+bubble2
+  rotate: true
+  xy: 913, 69
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+digging
+  rotate: true
+  xy: 674, 20
+  size: 106, 45
+  orig: 106, 45
+  offset: 0, 0
+  index: -1
+ef
+  rotate: false
+  xy: 721, 18
+  size: 56, 44
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 482, 51
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 923, 23
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 923, 23
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 137, 7
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: true
+  xy: 137, 7
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 183, 3
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+thu
+  rotate: true
+  xy: 961, 1
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+castle_gate.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 891, 1443
+  orig: 891, 1443
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1447, 642
+  size: 225, 251
+  orig: 225, 251
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1447, 543
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1

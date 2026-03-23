@@ -1,0 +1,125 @@
+
+20222_dwarf_boar.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boar_body
+  rotate: false
+  xy: 1, 16
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+Boar_eye1
+  rotate: false
+  xy: 270, 1
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Boar_eye2
+  rotate: true
+  xy: 342, 44
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+Boar_eye_2_1
+  rotate: false
+  xy: 17, 1
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Boar_eye_2_2
+  rotate: false
+  xy: 44, 5
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Boar_eye_2_3
+  rotate: false
+  xy: 32, 5
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+Boar_eye_2_4
+  rotate: false
+  xy: 1, 1
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Boar_eye_2_5
+  rotate: false
+  xy: 55, 5
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Boar_eye_2_6
+  rotate: false
+  xy: 66, 5
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Boar_face
+  rotate: false
+  xy: 116, 15
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+Boar_fire
+  rotate: true
+  xy: 224, 37
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+Boar_leg_1
+  rotate: true
+  xy: 342, 8
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Boar_leg_2
+  rotate: true
+  xy: 342, 8
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Boar_leg_3
+  rotate: true
+  xy: 224, 1
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Boar_leg_4
+  rotate: true
+  xy: 224, 1
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Boar_nose
+  rotate: true
+  xy: 296, 28
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+Boar_tear
+  rotate: true
+  xy: 382, 44
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+20291_dwarf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard1
+  rotate: false
+  xy: 205, 91
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+Beard2
+  rotate: false
+  xy: 120, 137
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+Beard3
+  rotate: false
+  xy: 406, 34
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 413, 146
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 182, 25
+  size: 64, 22
+  orig: 64, 22
+  offset: 0, 0
+  index: -1
+Clock
+  rotate: true
+  xy: 412, 201
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 481, 115
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 205, 49
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 66, 41
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: false
+  xy: 127, 16
+  size: 43, 11
+  orig: 43, 11
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: false
+  xy: 386, 15
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 362, 65
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 321, 131
+  size: 90, 68
+  orig: 90, 68
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 231, 131
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 464, 37
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 1, 10
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: true
+  xy: 83, 7
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: true
+  xy: 477, 270
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+Mouth6
+  rotate: false
+  xy: 339, 24
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: false
+  xy: 477, 227
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 69, 139
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 136, 29
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 42, 3
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+Sweat
+  rotate: true
+  xy: 464, 7
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Vehicle_Body
+  rotate: true
+  xy: 333, 204
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+Vehicle_Eye1
+  rotate: false
+  xy: 481, 88
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Vehicle_Head
+  rotate: false
+  xy: 231, 216
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+Vehicle_Leg1
+  rotate: true
+  xy: 1, 102
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Vehicle_Leg2
+  rotate: true
+  xy: 413, 83
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Vehicle_Leg3
+  rotate: true
+  xy: 69, 74
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Vehicle_Leg4
+  rotate: true
+  xy: 137, 74
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Vehicle_Tail
+  rotate: true
+  xy: 248, 2
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+Vehicle_l_Wing
+  rotate: false
+  xy: 297, 77
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+Vehicle_mouth
+  rotate: false
+  xy: 276, 40
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+Vehicle_r_Wing
+  rotate: false
+  xy: 1, 48
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+W1
+  rotate: false
+  xy: 120, 205
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+W2
+  rotate: false
+  xy: 1, 165
+  size: 117, 152
+  orig: 117, 152
+  offset: 0, 0
+  index: -1
