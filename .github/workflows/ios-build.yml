@@ -81,10 +81,19 @@ jobs:
       - name: Build and Package
         run: |
           if [ "${{ steps.detect.outputs.type }}" == "flutter" ]; then
-            flutter build ipa --release --no-codesign
-            # Move result to dist/ for builder to find
+            # 1. Build Archive without signing
+            flutter build ios --release --no-codesign
+            
+            # 2. Create Payload structure for unsigned IPA
+            mkdir -p Payload
+            cp -r build/ios/archive/Runner.xcarchive/Products/Applications/Runner.app Payload/
+            
+            # 3. Zip into IPA
+            zip -r app.ipa Payload
+            
+            # 4. Move to dist for builder tool
             mkdir -p dist
-            cp -r build/ios/ipa/*.ipa dist/app.ipa
+            mv app.ipa dist/app.ipa
           fi
 
       - name: Upload Artifact
